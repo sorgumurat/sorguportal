@@ -11,50 +11,38 @@
 <title><![CDATA[Tolgshow ]]></title>
 		<logo_30x30><![CDATA[https://cdn.jetfilmizle.biz/wp-content/uploads/resimler/2018/01/tolgshow-izle.jpg]]></logo_30x30>
 		<description><![CDATA[<img scr="https://cdn.jetfilmizle.biz/wp-content/uploads/resimler/2018/01/tolgshow-izle.jpg">]]></description>
-<playlist_url><![CDATA[https://cloudme.com/v1/ws2/:sorgumurat/:Tolgshow/Tolgshow.xml?dl=Tolgshow.xml]]></playlist_url>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/sorgumurat/sorguportal/main/vizyon%20dizi/Tolgshow.xml]]></playlist_url>
 </channel>
 
 <channel>
 <title><![CDATA[Midnight Texas]]></title>
 		<logo_30x30><![CDATA[http://www.gstatic.com/tv/thumb/tvbanners/12900215/p12900215_b_v8_aa.jpg]]></logo_30x30>
 		<description><![CDATA[<img scr="http://www.gstatic.com/tv/thumb/tvbanners/12900215/p12900215_b_v8_aa.jpg">]]></description>
-<playlist_url><![CDATA[https://cloudme.com/v1/ws2/:sorgumurat/:texsas/texsas.xml?dl=texsas.xml]]></playlist_url>
-</channel>
-<channel>
-<title><![CDATA[fi dizi]]></title>
-<logo_30x30><![CDATA[https://puhutv-img.akamaized.net/h2h1KvTdPTjWl-r6P7MFXMsQ7Ok=/1080x608/uploads/1489126579-biedgwmecbuoytyg-747d5c4fb4267bc47ce96ce11d71a59f/16x9_fi(1).jpg]]></logo_30x30>
-<description><![CDATA[<center><img src="https://puhutv-img.akamaized.net/h2h1KvTdPTjWl-r6P7MFXMsQ7Ok=/1080x608/uploads/1489126579-biedgwmecbuoytyg-747d5c4fb4267bc47ce96ce11d71a59f/16x9_fi(1).jpg" height="354" width="354"/><br>FİLM</center>]]></description>
-<playlist_url><![CDATA[http://sorguiptv.hol.es/fi.php]]></playlist_url>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/sorgumurat/sorguportal/main/vizyon%20dizi/texsas.xml]]></playlist_url>
 </channel>
 
 <channel>
 		<title><![CDATA[Blindspot]]></title>
 		<logo_30x30><![CDATA[http://www.sineturk.co/wp-content/uploads/2016/08/58.jpg]]></logo_30x30>
 		<description><![CDATA[<img src="http://www.sineturk.co/wp-content/uploads/2016/08/58.jpg">]]></description>
-		<playlist_url><![CDATA[https://cloudme.com/v1/ws2/:sorgumurat/:blindspot/blindspot.xml?dl=blindspot.xml]]></playlist_url>
+		<playlist_url><![CDATA[https://raw.githubusercontent.com/sorgumurat/sorguportal/main/vizyon%20dizi/blindspot.xml]]></playlist_url>
 	</channel>
 <channel>
 		<title><![CDATA[Into The Badlans ]]></title>
 		<logo_30x30><![CDATA[http://www.picz.ge/img/s2/1701/3/8/8b8da7efb813.jpg]]></logo_30x30>
 		<description><![CDATA[<img src="http://www.picz.ge/img/s2/1701/3/8/8b8da7efb813.jpg">]]></description>
-		<playlist_url><![CDATA[https://cloudme.com/v1/ws2/:sorgumurat/:badlans/badlans.xml?dl=badlans.xml]]></playlist_url>
+		<playlist_url><![CDATA[https://raw.githubusercontent.com/sorgumurat/sorguportal/main/vizyon%20dizi/badlans.xml]]></playlist_url>
 	</channel>
 <channel>
 		<title><![CDATA[Black Sails]]></title>
 		<logo_30x30><![CDATA[http://vignette1.wikia.nocookie.net/black-sails/images/2/2d/Black_Sails_Poster.jpg/revision/latest/scale-to-width-down/300?cb=2]]></logo_30x30>
 		<description><![CDATA[<img src="http://vignette1.wikia.nocookie.net/black-sails/images/2/2d/Black_Sails_Poster.jpg/revision/latest/scale-to-width-down/300?cb=2">]]></description>
-		<playlist_url><![CDATA[https://cloudme.com/v1/ws2/:sorgumurat/:blacksails/blacksails.xml?dl=blacksails.xml]]></playlist_url>
-	</channel>
-<channel>
-		<title><![CDATA[The Walking Dead 7]]></title>
-		<logo_30x30><![CDATA[https://img.123cdn.ru/2016/10/23/poster/1196f22e62c967b3520453c15e047f3d-the-walking-dead-season-7.jpg]]></logo_30x30>
-		<description><![CDATA[<img src="https://img.123cdn.ru/2016/10/23/poster/1196f22e62c967b3520453c15e047f3d-the-walking-dead-season-7.jpg">]]></description>
-		<playlist_url><![CDATA[https://cloudme.com/v1/ws2/:sorgumurat/:tvd7sezon/tvd7sezon.xml?dl=tvd7sezon.xml]]></playlist_url>
+		<playlist_url><![CDATA[https://raw.githubusercontent.com/sorgumurat/sorguportal/main/vizyon%20dizi/blacksails.xml]]></playlist_url>
 	</channel>
 <channel>
 		<title><![CDATA[The Strain]]></title>
 		<logo_30x30><![CDATA[http://www.diziyifullizle.org/wp-content/uploads/2016/08/The-Strain-3.Sezon_.jpg]]></logo_30x30>
 		<description><![CDATA[<img src="http://www.diziyifullizle.org/wp-content/uploads/2016/08/The-Strain-3.Sezon_.jpg">]]></description>
-		<playlist_url><![CDATA[https://cloudme.com/v1/ws2/:sorgumurat/:thestrain/thestrain.xml?dl=thestrain.xml]]></playlist_url>
+		<playlist_url><![CDATA[https://raw.githubusercontent.com/sorgumurat/sorguportal/main/vizyon%20dizi/thestrain.xml]]></playlist_url>
 	</channel>
 </items>
