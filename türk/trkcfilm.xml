@@ -1,0 +1,322 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--Bu XML dosyası, XorioN [VK-YT OtoPortal] - XML Editor v5.0.1 Programı ile oluşturulmuştur. - 30.10.2015 10:12:24-->
+<items>
+  <playlist_name><![CDATA[PLAYLIST]]></playlist_name>
+
+<channel>
+		<title><![CDATA[Dedemin Fişi]]></title>
+		<logo_30x30><![CDATA[https://www.filmizlemeliyim.com/wp-content/uploads/2015/12/dedemin-fisi-izle-223x350.jpg]]></logo_30x30>
+		<description><![CDATA[<img src="https://www.filmizlemeliyim.com/wp-content/uploads/2015/12/dedemin-fisi-izle-223x350.jpg" </img> ]]></description>
+		<playlist_url><![CDATA[https://my.cloudme.com/v1/ws2/:sorgumurat/:dedeminfisi/dedeminfisi.xml?dl=dedeminfisi.xml]]></playlist_url>
+	</channel>
+
+<channel>
+		<title><![CDATA[DÜĞÜN DERNEK 2 - SÜNNET (odn)]]></title>
+		<logo_30x30><![CDATA[http://www.canlidiziler.org/wp-content/uploads/2015/09/D%C3%BC%C4%9F%C3%BCn-Dernek-2-izle.jpg]]></logo_30x30>
+		<description><![CDATA[<img src="http://www.canlidiziler.org/wp-content/uploads/2015/09/D%C3%BC%C4%9F%C3%BCn-Dernek-2-izle.jpg" </img> DÜĞÜN DERNEK 2 - SÜNNET]]></description>
+		<stream_url><![CDATA[http://odnoklassniki.ru/videoembed/44460018406]]></stream_url>
+	</channel>
+	<channel>
+		<title><![CDATA[DÜĞÜN DERNEK 2 - SÜNNET (vidag)]]></title>
+		<logo_30x30><![CDATA[http://www.canlidiziler.org/wp-content/uploads/2015/09/D%C3%BC%C4%9F%C3%BCn-Dernek-2-izle.jpg]]></logo_30x30>
+		<description><![CDATA[<img src="http://www.canlidiziler.org/wp-content/uploads/2015/09/D%C3%BC%C4%9F%C3%BCn-Dernek-2-izle.jpg" </img><br> DÜĞÜN DERNEK 2 - SÜNNET]]></description>
+		<stream_url><![CDATA[http://vid.ag/embed-0r5sq4x6zyzg.html]]></stream_url>
+	</channel>
+
+<channel>
+		<title><![CDATA[Bir Zamanlar Anadolu'da]]></title>
+		<logo_30x30><![CDATA[]]></logo_30x30>
+		<description><![CDATA[<img src="" </img> Bir Zamanlar Anadolu'da]]></description>
+		<stream_url><![CDATA[http://odnoklassniki.ru/videoembed/31256283786]]></stream_url>
+	</channel>
+	<channel>
+		<title><![CDATA[BANA MASAL ANLATMA]]></title>
+		<logo_30x30><![CDATA[http://tr.web.img1.acsta.net/r_160_240/b_1_d6d6d6/pictures/14/12/10/16/28/037788.jpg]]></logo_30x30>
+		<description><![CDATA[<img src="http://tr.web.img1.acsta.net/r_160_240/b_1_d6d6d6/pictures/14/12/10/16/28/037788.jpg" </img> BANA MASAL ANLATMA]]></description>
+		<stream_url><![CDATA[http://odnoklassniki.ru/videoembed/39199443703]]></stream_url>
+	</channel>
+	<channel>
+		<title><![CDATA[KUZU ODN]]></title>
+		<logo_30x30><![CDATA[http://sinemasmart.net/imdbimages/11096.jpg]]></logo_30x30>
+		<description><![CDATA[<img src="http://sinemasmart.net/imdbimages/11096.jpg" </img> KUZU ODN]]></description>
+		<stream_url><![CDATA[http://odnoklassniki.ru/videoembed/37794876151]]></stream_url>
+	</channel>
+	<channel>
+		<title><![CDATA[KUZU VK]]></title>
+		<logo_30x30><![CDATA[http://sinemasmart.net/imdbimages/11096.jpg]]></logo_30x30>
+		<description><![CDATA[<img src="http://sinemasmart.net/imdbimages/11096.jpg" </img><br> KUZU VK]]></description>
+		<stream_url><![CDATA[http://vk.com/video_ext.php?oid=311733667&id=171957844&hash=527d4cca994e8bb1&hd=2]]></stream_url>
+	</channel>
+	<channel>
+		<title><![CDATA[Çekmeceler odn]]></title>
+		<logo_30x30><![CDATA[http://www.binhdfilm.com/wp-content/uploads/2015/07/%C3%87ekmeceler-2015-Full-HD-720p-izle.jpg]]></logo_30x30>
+		<description><![CDATA[<img src="http://www.binhdfilm.com/wp-content/uploads/2015/07/%C3%87ekmeceler-2015-Full-HD-720p-izle.jpg" </img><br> Çekmeceler odn]]></description>
+		<stream_url><![CDATA[http://odnoklassniki.ru/videoembed/36573612690]]></stream_url>
+	</channel>
+	<channel>
+		<title><![CDATA[Çekmeceler vidag]]></title>
+		<logo_30x30><![CDATA[http://www.binhdfilm.com/wp-content/uploads/2015/07/%C3%87ekmeceler-2015-Full-HD-720p-izle.jpg]]></logo_30x30>
+		<description><![CDATA[<img src="http://www.binhdfilm.com/wp-content/uploads/2015/07/%C3%87ekmeceler-2015-Full-HD-720p-izle.jpg" </img><br> Çekmeceler vidag]]></description>
+		<stream_url><![CDATA[http://vid.ag/embed-84d3ncnjonad.html]]></stream_url>
+	</channel>
+	<channel>
+		<title><![CDATA[DARBE]]></title>
+		<logo_30x30><![CDATA[http://tr.web.img3.acsta.net/newsv7/15/07/16/10/14/492441.jpg]]></logo_30x30>
+		<description><![CDATA[<img src="http://tr.web.img3.acsta.net/newsv7/15/07/16/10/14/492441.jpg" </img> DARBE]]></description>
+		<stream_url><![CDATA[http://odnoklassniki.ru/videoembed/34272250526]]></stream_url>
+	</channel>
+  <channel>
+    <title><![CDATA[Aşk Tesadüfleri Sever]]></title>
+    <logo_30x30><![CDATA[http://torfilm.ru/i/s2/11/8/6/3093aaa0e91ede6e38bb5bee4a592f64.jpg]]></logo_30x30>
+    <description><![CDATA[<img src='http://torfilm.ru/i/s2/11/8/6/3093aaa0e91ede6e38bb5bee4a592f64.jpg'/>Aşk Tesadüfleri Sever]]></description>
+    <stream_url><![CDATA[http://odnoklassniki.ru/videoembed/18160356088]]></stream_url>
+  </channel>
+  <channel>
+    <title><![CDATA[Av Mevsimi]]></title>
+    <logo_30x30><![CDATA[http://www.izleyince.com/wp-content/uploads/2013/01/av-mevsimi.jpg]]></logo_30x30>
+    <description><![CDATA[<img src='http://www.izleyince.com/wp-content/uploads/2013/01/av-mevsimi.jpg'/>Av Mevsimi]]></description>
+    <stream_url><![CDATA[http://vk.com/video_ext.php?oid=257219881&id=169223236&hash=6fd86846c3cab299]]></stream_url>
+  </channel>
+  <channel>
+    <title><![CDATA[Bana Adını Sor]]></title>
+    <logo_30x30><![CDATA[http://tr.web.img3.acsta.net/r_640_600/b_1_d6d6d6/pictures/15/02/09/16/47/310292.jpg]]></logo_30x30>
+    <description><![CDATA[<img src='http://tr.web.img3.acsta.net/r_640_600/b_1_d6d6d6/pictures/15/02/09/16/47/310292.jpg'/>Bana Adını Sor]]></description>
+    <stream_url><![CDATA[http://odnoklassniki.ru/videoembed/30515071736]]></stream_url>
+  </channel>
+  <channel>
+    <title><![CDATA[Benim Dünyam]]></title>
+    <logo_30x30><![CDATA[http://70x100.com/images/content/2eae2b393f394c654bf495fd2c57ca8e.jpg]]></logo_30x30>
+    <description><![CDATA[<img src='http://70x100.com/images/content/2eae2b393f394c654bf495fd2c57ca8e.jpg'/>Benim Dünyam]]></description>
+    <stream_url><![CDATA[http://vk.com/video_ext.php?oid=243193181&id=168794878&hash=42a513b99e4d5aed]]></stream_url>
+  </channel>
+  <channel>
+    <title><![CDATA[Beş Şehir]]></title>
+    <logo_30x30><![CDATA[http://www.sinemadafilmizle.com/afis/bes-sehir.jpg]]></logo_30x30>
+    <description><![CDATA[<img src='http://www.sinemadafilmizle.com/afis/bes-sehir.jpg'/>Beş Şehir]]></description>
+    <stream_url><![CDATA[http://odnoklassniki.ru/videoembed/26078219000]]></stream_url>
+  </channel>
+  <channel>
+    <title><![CDATA[Bİ KÜÇÜK EYLÜL MESELESİ]]></title>
+    <logo_30x30><![CDATA[http://i1124.photobucket.com/albums/l569/gelgitakil/bkem/ea_51b_bkem_afis_zps599a8162.png]]></logo_30x30>
+    <description><![CDATA[<img src='http://i1124.photobucket.com/albums/l569/gelgitakil/bkem/ea_51b_bkem_afis_zps599a8162.png'/>Bİ KÜÇÜK EYLÜL MESELES]]></description>
+    <stream_url><![CDATA[http://ok.ru/videoembed/14088931853]]></stream_url>
+  </channel>
+  <channel>
+    <title><![CDATA[Bir Varmış Bir Yokmuş]]></title>
+    <logo_30x30><![CDATA[http://www.filmcuk.com/wp-content/uploads/2015/02/bir-varmis-bir-yokmus-2015-yerli-film-240x350.jpg]]></logo_30x30>
+    <description><![CDATA[<img src='http://www.filmcuk.com/wp-content/uploads/2015/02/bir-varmis-bir-yokmus-2015-yerli-film-240x350.jpg'/>Bir Varmış Bir Yokmuş]]></description>
+    <stream_url><![CDATA[http://vk.com/video_ext.php?oid=264023882&id=171720615&hash=d9a97ed50d83774d&hd=2]]></stream_url>
+  </channel>
+  <channel>
+    <title><![CDATA[Birleşen Gönüller]]></title>
+    <logo_30x30><![CDATA[http://www.filmcuk.com/wp-content/uploads/2015/09/birlesen-gonuller-2014-yerli-film-izle-240x350.jpg]]></logo_30x30>
+    <description><![CDATA[<img src='http://www.filmcuk.com/wp-content/uploads/2015/09/birlesen-gonuller-2014-yerli-film-izle-240x350.jpg'/>Birleşen Gönüller]]></description>
+    <stream_url><![CDATA[http://vk.com/video_ext.php?oid=262646317&id=171396304&hash=2b3ee742c8875cb6&hd=2]]></stream_url>
+  </channel>
+  <channel>
+    <title><![CDATA[Çalgı Çengi]]></title>
+    <logo_30x30><![CDATA[http://img2.hdfilmsitesi.com.tr/wp-content/uploads/2011/05/calgi-cengi.jpg]]></logo_30x30>
+    <description><![CDATA[<img src='http://img2.hdfilmsitesi.com.tr/wp-content/uploads/2011/05/calgi-cengi.jpg'/>Çalgı Çengi]]></description>
+    <stream_url><![CDATA[http://odnoklassniki.ru/videoembed/31497784062]]></stream_url>
+  </channel>
+  <channel>
+    <title><![CDATA[ÇANAKKALE SON MEKTUP]]></title>
+    <logo_30x30><![CDATA[http://www.onlinefilmizledim.net/wp-content/uploads/Son-Mektup-afis-e1427578520570.jpg]]></logo_30x30>
+    <description><![CDATA[<img src='http://www.onlinefilmizledim.net/wp-content/uploads/Son-Mektup-afis-e1427578520570.jpg'/>ÇANAKKALE SON MEKTUP]]></description>
+    <stream_url><![CDATA[http://odnoklassniki.ru/videoembed/36046375597]]></stream_url>
+  </channel>
+  <channel>
+    <title><![CDATA[Çarşı Pazar]]></title>
+    <logo_30x30><![CDATA[http://www.hizlifilmci.com/wp-content/uploads/2015/06/ar%C5%9F%C4%B1-pazar-afis-e1424870279799.jpg]]></logo_30x30>
+    <description><![CDATA[<img src='http://www.hizlifilmci.com/wp-content/uploads/2015/06/ar%C5%9F%C4%B1-pazar-afis-e1424870279799.jpg'/>Çarşı Pazar]]></description>
+    <stream_url><![CDATA[http://odnoklassniki.ru/videoembed/27399621203]]></stream_url>
+  </channel>
+  <channel>
+    <title><![CDATA[Dağ]]></title>
+    <logo_30x30><![CDATA[http://www.filmozel.com/wp-content/uploads/dag-2012-film-izle-afis-movie-poster-250x390.jpg]]></logo_30x30>
+    <description><![CDATA[<img src='http://www.filmozel.com/wp-content/uploads/dag-2012-film-izle-afis-movie-poster-250x390.jpg'/>Dağ]]></description>
+    <stream_url><![CDATA[http://odnoklassniki.ru/videoembed/24508304120]]></stream_url>
+  </channel>
+  <channel>
+    <title><![CDATA[Deliha]]></title>
+    <logo_30x30><![CDATA[http://www.dizifr.com/diziler/deliha.jpg]]></logo_30x30>
+    <description><![CDATA[<img src='http://www.dizifr.com/diziler/deliha.jpg'/>Deliha]]></description>
+    <stream_url><![CDATA[http://odnoklassniki.ru/videoembed/36881041965]]></stream_url>
+  </channel>
+  <channel>
+    <title><![CDATA[Devrimden Sonra]]></title>
+    <logo_30x30><![CDATA[http://img02.imgsinemalar.com/images/afis_dev/d/Devrimden-Sonra-1303409529.jpg]]></logo_30x30>
+    <description><![CDATA[<img src='http://img02.imgsinemalar.com/images/afis_dev/d/Devrimden-Sonra-1303409529.jpg'/>Devrimden Sonra]]></description>
+    <stream_url><![CDATA[http://odnoklassniki.ru/videoembed/31229086462]]></stream_url>
+  </channel>
+  <channel>
+    <title><![CDATA[DÖNÜŞÜM: HTR2B ]]></title>
+    <logo_30x30><![CDATA[http://www.filmizletio.net/wp-content/uploads/2015/08/htr2b-donusum-160.jpg]]></logo_30x30>
+    <description><![CDATA[<img src='http://www.filmizletio.net/wp-content/uploads/2015/08/htr2b-donusum-160.jpg'/>DÖNÜŞÜM: HTR2B]]></description>
+    <stream_url><![CDATA[http://ok.ru/videoembed/30081681964]]></stream_url>
+  </channel>
+  <channel>
+    <title><![CDATA[Düğün Dernek]]></title>
+    <logo_30x30><![CDATA[http://a69.g.akamai.net/n/69/10688/v1/img5.allocine.fr/acmedia/medias/nmedia/19/00/50/75/20632877.jpg]]></logo_30x30>
+    <description><![CDATA[<img src='http://a69.g.akamai.net/n/69/10688/v1/img5.allocine.fr/acmedia/medias/nmedia/19/00/50/75/20632877.jpg'/>Düğün Dernek]]></description>
+    <stream_url><![CDATA[http://vk.com/video_ext.php?oid=192736716&id=168792395&hash=e716cbcf8e5cda87&hd=2]]></stream_url>
+  </channel>
+  <channel>
+    <title><![CDATA[Entelköy Efeköye Karşı]]></title>
+    <logo_30x30><![CDATA[http://img01.imgsinemalar.com/images/afis_huge/192935/entelkoy-efekoye-karsi-1.jpg]]></logo_30x30>
+    <description><![CDATA[<img src='http://img01.imgsinemalar.com/images/afis_huge/192935/entelkoy-efekoye-karsi-1.jpg'/>Entelköy Efeköye Karşı]]></description>
+    <stream_url><![CDATA[http://odnoklassniki.ru/videoembed/31228824318]]></stream_url>
+  </channel>
+  <channel>
+    <title><![CDATA[Fetih 1453]]></title>
+    <logo_30x30><![CDATA[http://hdfilmler.hol.es/wp-content/uploads/2014/08/220px-Fetih1453Afi%C5%9F.jpg]]></logo_30x30>
+    <description><![CDATA[<img src='http://hdfilmler.hol.es/wp-content/uploads/2014/08/220px-Fetih1453Afi%C5%9F.jpg'/>Fetih 1453]]></description>
+    <stream_url><![CDATA[http://vk.com/video_ext.php?oid=318787418&id=171243284&hash=30496c6d15c1ff0e]]></stream_url>
+  </channel>
+  <channel>
+    <title><![CDATA[Figüran]]></title>
+    <logo_30x30><![CDATA[https://upload.wikimedia.org/wikipedia/tr/thumb/f/fb/Fig%C3%BCran_film_poster.jpeg/339px-Fig%C3%BCran_film_poster.jpeg]]></logo_30x30>
+    <description><![CDATA[<img src=''/>Figüran]]></description>
+    <stream_url><![CDATA[http://odnoklassniki.ru/videoembed/35965176493]]></stream_url>
+  </channel>
+  <channel>
+    <title><![CDATA[Girdap]]></title>
+    <logo_30x30><![CDATA[http://img.webme.com/pic/f/fucktoriyel-hackteam/girdapn.jpg]]></logo_30x30>
+    <description><![CDATA[<img src='http://img.webme.com/pic/f/fucktoriyel-hackteam/girdapn.jpg'/>Girdap]]></description>
+    <playlist_url><![CDATA[https://my.cloudme.com/v1/ws2/:sorgumurat/:girdap/girdap.xml?dl=girdap.xml]]></playlist_url>
+  </channel>
+  <channel>
+    <title><![CDATA[Hayalet Dayı]]></title>
+    <logo_30x30><![CDATA[http://hdfilmgecesi.com/wp-content/uploads/2015/02/Hayalet-Day%C4%B1-izle.jpg]]></logo_30x30>
+    <description><![CDATA[<img src='http://hdfilmgecesi.com/wp-content/uploads/2015/02/Hayalet-Day%C4%B1-izle.jpg'/>Hayalet Dayı]]></description>
+    <stream_url><![CDATA[http://vk.com/video_ext.php?oid=262646317&id=171398267&hash=7b924bda687fea12&hd=2]]></stream_url>
+  </channel>
+  <channel>
+    <title><![CDATA[İçimdeki Ses]]></title>
+    <logo_30x30><![CDATA[http://www.bolumozeti.net/wp-content/uploads/2015/01/Icimdeki-Ses-Afis1-325x464.jpg]]></logo_30x30>
+    <description><![CDATA[<img src='http://www.bolumozeti.net/wp-content/uploads/2015/01/Icimdeki-Ses-Afis1-325x464.jpg'/>İçimdeki Ses]]></description>
+    <stream_url><![CDATA[http://odnoklassniki.ru/videoembed/26212109048]]></stream_url>
+  </channel>
+  <channel>
+    <title><![CDATA[İncir Reçeli]]></title>
+    <logo_30x30><![CDATA[http://www.hdfilmizlet.net/thumb/240x360/uploads/film/2015/05/incir-receli-filmi-full-izle-523.jpg]]></logo_30x30>
+    <description><![CDATA[<img src='http://www.hdfilmizlet.net/thumb/240x360/uploads/film/2015/05/incir-receli-filmi-full-izle-523.jpg'/>İncir Reçeli]]></description>
+    <stream_url><![CDATA[http://vk.com/video_ext.php?oid=257219881&id=169129444&hash=70295a8ac1950710]]></stream_url>
+  </channel>
+  <channel>
+    <title><![CDATA[İncir Reçeli 2]]></title>
+    <logo_30x30><![CDATA[http://70x100.com/images/content/b062485b93d7cf7889981648bbc94f29.jpg]]></logo_30x30>
+    <description><![CDATA[<img src='http://70x100.com/images/content/b062485b93d7cf7889981648bbc94f29.jpg'/>İncir Reçeli 2]]></description>
+    <stream_url><![CDATA[http://vk.com/video_ext.php?oid=262606367&id=171716735&hash=0cca85f63f37b606]]></stream_url>
+  </channel>
+  <channel>
+    <title><![CDATA[İtirazım Var Bayılırım Belaya]]></title>
+    <logo_30x30><![CDATA[https://s-media-cache-ak0.pinimg.com/736x/76/ca/84/76ca84cffddce7159c0460d06d193f82.jpg]]></logo_30x30>
+    <description><![CDATA[<img src=''/>İtirazım Var Bayılırım Belaya]]></description>
+    <stream_url><![CDATA[http://odnoklassniki.ru/videoembed/22948612856]]></stream_url>
+  </channel>
+  <channel>
+    <title><![CDATA[Kendin Ol]]></title>
+    <logo_30x30><![CDATA[http://www.kendinolfilm.com/wp-content/uploads/2014/11/11010579_1562802593978488_6258140499038496860_n-e1424953863962.jpg]]></logo_30x30>
+    <description><![CDATA[<img src='http://www.kendinolfilm.com/wp-content/uploads/2014/11/11010579_1562802593978488_6258140499038496860_n-e1424953863962.jpg'/>Kendin Ol]]></description>
+    <stream_url><![CDATA[http://ok.ru/videoembed/31794924076]]></stream_url>
+  </channel>
+  <channel>
+    <title><![CDATA[Kocan Kadar Konuş]]></title>
+    <logo_30x30><![CDATA[http://i0.wp.com/www.filmloverss.com/wp-content/uploads/2015/03/kocan-kadar-konu%C5%9F-poster-filmloverss.jpg?resize=350%2C501]]></logo_30x30>
+    <description><![CDATA[<img src='http://i0.wp.com/www.filmloverss.com/wp-content/uploads/2015/03/kocan-kadar-konu%C5%9F-poster-filmloverss.jpg'/>Kocan Kadar Konuş]]></description>
+    <stream_url><![CDATA[http://odnoklassniki.ru/videoembed/27860929272]]></stream_url>
+  </channel>
+  <channel>
+    <title><![CDATA[Limonata]]></title>
+    <logo_30x30><![CDATA[http://www.tvaktuel.com/wp-content/uploads/2015/03/limonata-film-afi%C5%9F.jpg]]></logo_30x30>
+    <description><![CDATA[<img src='http://www.tvaktuel.com/wp-content/uploads/2015/03/limonata-film-afi%C5%9F.jpg'/>Limonata]]></description>
+    <stream_url><![CDATA[http://odnoklassniki.ru/videoembed/30474439416]]></stream_url>
+  </channel>
+  <channel>
+    <title><![CDATA[Mandra Filozofu]]></title>
+    <logo_30x30><![CDATA[http://www.durdurfilmizle.com/thumb/240x360/uploads/film/2015/06/mandira-filozofu-623.jpg]]></logo_30x30>
+    <description><![CDATA[<img src='http://www.durdurfilmizle.com/thumb/240x360/uploads/film/2015/06/mandira-filozofu-623.jpg'/>Mandra Filozofu]]></description>
+    <stream_url><![CDATA[http://vk.com/video_ext.php?oid=246455328&id=170340046&hash=b6360d757b4c3f9b]]></stream_url>
+  </channel>
+  <channel>
+    <title><![CDATA[Mandra Flozofu 2]]></title>
+    <logo_30x30><![CDATA[http://www.filmdikizle.com/wp-content/uploads/2014/12/mandira-filozofu-2.jpg]]></logo_30x30>
+    <description><![CDATA[<img src='http://www.filmdikizle.com/wp-content/uploads/2014/12/mandira-filozofu-2.jpg'/>Mandra Flozofu 2]]></description>
+    <stream_url><![CDATA[http://odnoklassniki.ru/videoembed/27780516600]]></stream_url>
+  </channel>
+  <channel>
+    <title><![CDATA[Mucize]]></title>
+    <logo_30x30><![CDATA[http://www.365gunmuzik.com/Storage/images/mahsun_kirmizigul_mucize_400.jpg]]></logo_30x30>
+    <description><![CDATA[<img src='http://www.365gunmuzik.com/Storage/images/mahsun_kirmizigul_mucize_400.jpg'/>Mucize]]></description>
+    <stream_url><![CDATA[https://openload.io/embed/ZMjlfBUVtDc/]]></stream_url>
+  </channel>
+  <channel>
+    <title><![CDATA[New York ta Beş Minare]]></title>
+    <logo_30x30><![CDATA[http://www.izafet.net/attachments/new-yorkta-bes-minare-1285926456-jpg.100182/]]></logo_30x30>
+    <description><![CDATA[<img src=''/>New York ta Beş Minare]]></description>
+    <stream_url><![CDATA[http://odnoklassniki.ru/videoembed/31151622910]]></stream_url>
+  </channel>
+  <channel>
+    <title><![CDATA[Olur İnşallah]]></title>
+    <logo_30x30><![CDATA[http://www.sheryystyle.com/wp-content/uploads/2015/05/afis_small.jpg]]></logo_30x30>
+    <description><![CDATA[<img src='http://www.sheryystyle.com/wp-content/uploads/2015/05/afis_small.jpg'/>Olur İnşallah]]></description>
+    <stream_url><![CDATA[http://odnoklassniki.ru/videoembed/75386456576]]></stream_url>
+  </channel>
+  <channel>
+    <title><![CDATA[Öğrenci İşleri]]></title>
+    <logo_30x30><![CDATA[http://www.filmcuk.com/wp-content/uploads/2015/04/ogrenci-isleri-2015-yerli-film-240x350.jpg]]></logo_30x30>
+    <description><![CDATA[<img src='http://www.filmcuk.com/wp-content/uploads/2015/04/ogrenci-isleri-2015-yerli-film-240x350.jpg'/>Öğrenci İşleri]]></description>
+    <stream_url><![CDATA[http://vk.com/video_ext.php?oid=262646317&id=171396310&hash=1aabe13827c1c59d&hd=2]]></stream_url>
+  </channel>
+  <channel>
+    <title><![CDATA[Panzehir]]></title>
+    <logo_30x30><![CDATA[https://pbs.twimg.com/profile_images/440763216956641281/nrREh6gO.png]]></logo_30x30>
+    <description><![CDATA[<img src=''/>Panzehir]]></description>
+    <stream_url><![CDATA[http://odnoklassniki.ru/videoembed/24504634104]]></stream_url>
+  </channel>
+  <channel>
+    <title><![CDATA[Senden Banan Kalan]]></title>
+    <logo_30x30><![CDATA[http://uturk.biz/torrents/images/8114.jpg]]></logo_30x30>
+    <description><![CDATA[<img src='http://uturk.biz/torrents/images/8114.jpg'/>Senden Banan Kalan]]></description>
+    <stream_url><![CDATA[http://odnoklassniki.ru/videoembed/30968253176]]></stream_url>
+  </channel>
+  <channel>
+    <title><![CDATA[Tehlike İle Flört]]></title>
+    <logo_30x30><![CDATA[http://www.sinemapub.com/wp-content/uploads/2015/05/16668839626_eae50b0502_o_width300.jpg]]></logo_30x30>
+    <description><![CDATA[<img src='http://www.sinemapub.com/wp-content/uploads/2015/05/16668839626_eae50b0502_o_width300.jpg'/>Tehlike İle Flört]]></description>
+    <stream_url><![CDATA[https://openload.co/embed/5BOEeZUYv7c/]]></stream_url>
+  </channel>
+  <channel>
+    <title><![CDATA[Terkedilmiş]]></title>
+    <logo_30x30><![CDATA[http://www.vizyonfilmizle.net/home/vizyon4/vizyonfilmizle.org/public_html/image/terkedilmis2015.jpg]]></logo_30x30>
+    <description><![CDATA[<img src='http://www.vizyonfilmizle.net/home/vizyon4/vizyonfilmizle.org/public_html/image/terkedilmis2015.jpg'/>Terkedilmiş]]></description>
+    <stream_url><![CDATA[http://ok.ru/videoembed/35531655853]]></stream_url>
+  </channel>
+  <channel>
+    <title><![CDATA[Unutursam Fısılda]]></title>
+    <logo_30x30><![CDATA[http://e-dergi.mybilet.com/wp-content/uploads/2015/02/Unutursam-F%C4%B1s%C4%B1lda-afi%C5%9F-300x429.jpg]]></logo_30x30>
+    <description><![CDATA[<img src='http://e-dergi.mybilet.com/wp-content/uploads/2015/02/Unutursam-F%C4%B1s%C4%B1lda-afi%C5%9F-300x429.jpg'/>Unutursam Fısılda]]></description>
+    <stream_url><![CDATA[http://odnoklassniki.ru/videoembed/29225323052]]></stream_url>
+  </channel>
+  <channel>
+    <title><![CDATA[Yahşi Batı]]></title>
+    <logo_30x30><![CDATA[http://www.evrenselfilmler.net/wp-content/uploads/2011/09/yahsi-bati.jpg]]></logo_30x30>
+    <description><![CDATA[<img src='http://www.evrenselfilmler.net/wp-content/uploads/2011/09/yahsi-bati.jpg'/>Yahşi Batı]]></description>
+    <stream_url><![CDATA[http://vk.com/video_ext.php?oid=257219881&id=169021739&hash=a8b2f79d28ba92d6]]></stream_url>
+  </channel>
+  <channel>
+    <title><![CDATA[Yapışık Kardeşler]]></title>
+    <logo_30x30><![CDATA[http://birhdfilm.com/wp-content/uploads/2015/01/Yapisik-Kardesler-izle-e1421862564528.jpg]]></logo_30x30>
+    <description><![CDATA[<img src='http://birhdfilm.com/wp-content/uploads/2015/01/Yapisik-Kardesler-izle-e1421862564528.jpg'/>Yapışık Kardeşler]]></description>
+    <stream_url><![CDATA[odnoklassniki.ru/videoembed/28927265361]]></stream_url>
+  </channel>
+  <channel>
+    <title><![CDATA[Yola Çıkmak]]></title>
+    <logo_30x30><![CDATA[http://img02.imgsinemalar.com/images/afis_dev/y/yola-cikmak-1430727941.jpg]]></logo_30x30>
+    <description><![CDATA[<img src='http://img02.imgsinemalar.com/images/afis_dev/y/yola-cikmak-1430727941.jpg'/>Yola Çıkmak]]></description>
+    <stream_url><![CDATA[http://vk.com/video_ext.php?oid=264023882&id=171720615&hash=d9a97ed50d83774d&hd=2]]></stream_url>
+  </channel>
+  <next_page_url text=""><![CDATA[]]></next_page_url>
+  <prev_page_url text=""><![CDATA[]]></prev_page_url>
+</items>

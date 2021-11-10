@@ -1,0 +1,339 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--Bu XML dosyası, XorioN [VK-YT OtoPortal] - XML Editor v5.0.1 Programı ile oluşturulmuştur. - 17.12.2015 09:25:36-->
+<items>
+  <playlist_name><![CDATA[korku]]></playlist_name>
+
+<channel>
+<title><![CDATA[Mel-un]]></title>
+<logo_30x30><![CDATA[http://img.haberler.com/haber/499/mel-un-filmi-8148499_x_o.jpg]]></logo_30x30>
+<description><![CDATA[<img src='http://img.haberler.com/haber/499/mel-un-filmi-8148499_x_o.jpg'/]]></description>
+<stream_url><![CDATA[http://odnoklassniki.ru/video/86616967927]]></stream_url>
+</channel>
+<channel>
+<title><![CDATA[Çağırılan]]></title>
+<logo_30x30><![CDATA[http://tr.web.img2.acsta.net/pictures/16/01/19/10/49/395032.jpg]]></logo_30x30>
+<description><![CDATA[<img src=http://tr.web.img2.acsta.net/pictures/16/01/19/10/49/395032.jpg]]></description>
+<stream_url><![CDATA[https://openload.co/embed/QK5DUo4YgWc/Cagrilannnnn.2016.1080p.WEBDL.x264.Yerli.Film.avi]]></stream_url>
+</channel>
+
+<channel>
+<title><![CDATA[KORKU TERAPİSİ]]></title>
+<logo_30x30><![CDATA[http://www.bicaps.net/wp-content/uploads/Regression-Poster-emma-watson-38781326-896-1280-e1453754785672.jpg]]></logo_30x30>
+<description><![CDATA[<img src='http://www.bicaps.net/wp-content/uploads/Regression-Poster-emma-watson-38781326-896-1280-e1453754785672.jpg'/]]></description>
+<playlist_url><![CDATA[https://cloudme.com/v1/ws2/:sorgumurat/:korkuterapi/korkuterapi.xml?dl=korkuterapi.xml]]></playlist_url>
+</channel>
+<channel>
+<title><![CDATA[ŞEYTANIN GECESİ ]]></title>
+<logo_30x30><![CDATA[http://www.bicaps.net/wp-content/uploads/Exeter-gsc-movies-poster-malaysia-e1458593790459.jpg]]></logo_30x30>
+<description><![CDATA[<img src='http://www.bicaps.net/wp-content/uploads/Exeter-gsc-movies-poster-malaysia-e1458593790459.jpg'/]]></description>
+<playlist_url><![CDATA[https://cloudme.com/v1/ws2/:sorgumurat/:seytangece/seytangece.xml?dl=seytangece.xml]]></playlist_url>
+</channel>
+	<channel>
+		<title><![CDATA[Cin - Djinn]]></title>
+		<logo_30x30><![CDATA[http://resim.fullhdfilmizle.org/mdsresim_izle/fullhd-cin-djinn.jpg]]></logo_30x30>
+		<description><![CDATA[<img src="http://resim.fullhdfilmizle.org/mdsresim_izle/fullhd-cin-djinn.jpg" </img> Cin - Djinn]]></description>
+		<stream_url><![CDATA[http://odnoklassniki.ru/videoembed/37172218487]]></stream_url>
+	</channel>
+	<channel>
+		<title><![CDATA[Şeytanın Gözleri - Starry Eyes]]></title>
+		<logo_30x30><![CDATA[http://resim.fullhdfilmizle.org/mdsresim_izle/fullhd-seytanin-gozleri-starry-eyes.jpg]]></logo_30x30>
+		<description><![CDATA[<img src="http://resim.fullhdfilmizle.org/mdsresim_izle/fullhd-seytanin-gozleri-starry-eyes.jpg" </img> Şeytanın Gözleri - Starry Eyes]]></description>
+		<stream_url><![CDATA[http://odnoklassniki.ru/videoembed/37495638647]]></stream_url>
+	</channel>
+	<channel>
+		<title><![CDATA[Kafesin Dışında - Uncaged]]></title>
+		<logo_30x30><![CDATA[http://resim.fullhdfilmizle.org/mdsresim_izle/fullhd-kafesin-disinda-uncaged.jpg]]></logo_30x30>
+		<description><![CDATA[<img src="http://resim.fullhdfilmizle.org/mdsresim_izle/fullhd-kafesin-disinda-uncaged.jpg" </img> Kafesin Dışında - Uncaged]]></description>
+		<stream_url><![CDATA[http://odnoklassniki.ru/videoembed/37593549431]]></stream_url>
+	</channel>
+  <channel>
+    <title><![CDATA[51. Bölge]]></title>
+    <logo_30x30><![CDATA[http://www.fullhdfilmizledim.com/wp-content/uploads/51.bolge-area-51-afis-e1444487377669.jpg]]></logo_30x30>
+    <description><![CDATA[<img src='http://www.fullhdfilmizledim.com/wp-content/uploads/51.bolge-area-51-afis-e1444487377669.jpg'/>Labirent: Alev Deneyleri]]></description>
+    <stream_url><![CDATA[http://odnoklassniki.ru/videoembed/31877761570]]></stream_url>
+  </channel>
+  <channel>
+    <title><![CDATA[Al Karısı Cinnet]]></title>
+    <logo_30x30><![CDATA[http://birhdfilm.com/wp-content/uploads/2015/06/al-karisi-cinnet-izle-e1434069554679.jpg]]></logo_30x30>
+    <description><![CDATA[<img src='http://birhdfilm.com/wp-content/uploads/2015/06/al-karisi-cinnet-izle-e1434069554679.jpg'/>Al Karısı Cinnet]]></description>
+    <stream_url><![CDATA[http://odnoklassniki.ru/videoembed/29474622175]]></stream_url>
+  </channel>
+  <channel>
+    <title><![CDATA[Anarchy Parlor Tr altyazı]]></title>
+    <logo_30x30><![CDATA[http://resim.fullhdfilmizle.org/mdsresim_izle/fullhd-anarchy-parlor.jpg]]></logo_30x30>
+    <description><![CDATA[<img src='http://resim.fullhdfilmizle.org/mdsresim_izle/fullhd-anarchy-parlor.jpg'/>Anarchy Parlor Tr altyazı]]></description>
+    <stream_url><![CDATA[http://odnoklassniki.ru/videoembed/27696106162]]></stream_url>
+  </channel>
+  <channel>
+    <title><![CDATA[Cadılar]]></title>
+    <logo_30x30><![CDATA[http://resim.fullhdfilmizle.org/mdsresim_izle/fullhd-cadilar-las-brujas-de-zugarramur.jpg]]></logo_30x30>
+    <description><![CDATA[<img src='http://resim.fullhdfilmizle.org/mdsresim_izle/fullhd-cadilar-las-brujas-de-zugarramur.jpg'/>Cadılar]]></description>
+    <stream_url><![CDATA[http://odnoklassniki.ru/videoembed/0875912915]]></stream_url>
+  </channel>
+  <channel>
+    <title><![CDATA[Carrie Günah Tohumu]]></title>
+    <logo_30x30><![CDATA[http://resim.fullhdfilmizle.org/mdsresim_izle/fullhd-carrie-gunah-tohumu-film-izle.jpg]]></logo_30x30>
+    <description><![CDATA[<img src='http://resim.fullhdfilmizle.org/mdsresim_izle/fullhd-carrie-gunah-tohumu-film-izle.jpg'/>Carrie Günah Tohumu]]></description>
+    <stream_url><![CDATA[http://odnoklassniki.ru/videoembed/30819224275]]></stream_url>
+  </channel>
+  <channel>
+    <title><![CDATA[Darağacı - The Gallows]]></title>
+    <logo_30x30><![CDATA[http://resim.fullhdfilmizle.org/mdsresim_izle/fullhd-the-gallows.jpg]]></logo_30x30>
+    <description><![CDATA[<img src='http://resim.fullhdfilmizle.org/mdsresim_izle/fullhd-the-gallows.jpg'/>Darağacı - The Gallows]]></description>
+    <stream_url><![CDATA[http://odnoklassniki.ru/videoembed/35090664106]]></stream_url>
+  </channel>
+  <channel>
+    <title><![CDATA[davetsiz misafirler]]></title>
+    <logo_30x30><![CDATA[http://resim.fullhdfilmizle.org/mdsresim_izle/fullhd-davetsiz-misafirler-the-intruders.jpg]]></logo_30x30>
+    <description><![CDATA[<img src='http://resim.fullhdfilmizle.org/mdsresim_izle/fullhd-davetsiz-misafirler-the-intruders.jpg'/>davetsiz misafirler]]></description>
+    <stream_url><![CDATA[http://odnoklassniki.ru/videoembed/27885439666]]></stream_url>
+  </channel>
+  <channel>
+    <title><![CDATA[Dehşet Gecesi - Exists]]></title>
+    <logo_30x30><![CDATA[http://resim.fullhdfilmizle.org/mdsresim_izle/fullhd-dehset-gecesi-exists.jpg]]></logo_30x30>
+    <description><![CDATA[<img src='http://resim.fullhdfilmizle.org/mdsresim_izle/fullhd-dehset-gecesi-exists.jpg'/>Dehşet Gecesi - Exists]]></description>
+    <stream_url><![CDATA[http://odnoklassniki.ru/videoembed/35065432746]]></stream_url>
+  </channel>
+  <channel>
+    <title><![CDATA[Dehşet Kasabası]]></title>
+    <logo_30x30><![CDATA[http://resim.fullhdfilmizle.org/mdsresim/fullhd-dehset-kasabasi-among-the-living.jpg]]></logo_30x30>
+    <description><![CDATA[<img src='http://resim.fullhdfilmizle.org/mdsresim/fullhd-dehset-kasabasi-among-the-living.jpg'/>Dehşet Kasabası]]></description>
+    <stream_url><![CDATA[http://odnoklassniki.ru/videoembed/25975065295]]></stream_url>
+  </channel>
+  <channel>
+    <title><![CDATA[delik]]></title>
+    <logo_30x30><![CDATA[http://resim.fullhdfilmizle.org/mdsresim_izle/fullhd-delik-the-hole-film-izle.jpg]]></logo_30x30>
+    <description><![CDATA[<img src='http://resim.fullhdfilmizle.org/mdsresim_izle/fullhd-delik-the-hole-film-izle.jpg'/>delik]]></description>
+    <stream_url><![CDATA[http://odnoklassniki.ru/videoembed/27640466127]]></stream_url>
+  </channel>
+  <channel>
+    <title><![CDATA[Diriliş - A Resurrection]]></title>
+    <logo_30x30><![CDATA[http://resim.fullhdfilmizle.org/mdsresim_izle/fullhd-dirilis-a-resurrection.jpg]]></logo_30x30>
+    <description><![CDATA[<img src='http://resim.fullhdfilmizle.org/mdsresim_izle/fullhd-dirilis-a-resurrection.jpg'/>Diriliş - A Resurrection]]></description>
+    <stream_url><![CDATA[http://odnoklassniki.ru/videoembed/32563464836]]></stream_url>
+  </channel>
+  <channel>
+    <title><![CDATA[HANNAS KARANLIKTA SAKLANAN]]></title>
+    <logo_30x30><![CDATA[http://birhdfilm.com/wp-content/uploads/2015/06/hannas-karanl%C4%B1kta-saklanan-izle-e1435148583787.jpg]]></logo_30x30>
+    <description><![CDATA[<img src='http://birhdfilm.com/wp-content/uploads/2015/06/hannas-karanl%C4%B1kta-saklanan-izle-e1435148583787.jpg'/>HANNAS KARANLIKTA SAKLANAN]]></description>
+    <stream_url><![CDATA[http://odnoklassniki.ru/videoembed/33945094739]]></stream_url>
+  </channel>
+  <channel>
+    <title><![CDATA[Hayaletli ev]]></title>
+    <logo_30x30><![CDATA[http://resim.fullhdfilmizle.org/mdsresimx/fullhd-hayaletli-ev-haunter-film-izle.jpg]]></logo_30x30>
+    <description><![CDATA[<img src='http://resim.fullhdfilmizle.org/mdsresimx/fullhd-hayaletli-ev-haunter-film-izle.jpg'/>Hayaletli ev]]></description>
+    <stream_url><![CDATA[http://odnoklassniki.ru/videoembed/30806837971]]></stream_url>
+  </channel>
+  <channel>
+    <title><![CDATA[Hayvan]]></title>
+    <logo_30x30><![CDATA[http://resim.fullhdfilmizle.org/mdsresim_izle/fullhd-hayvan-animal.jpg]]></logo_30x30>
+    <description><![CDATA[<img src='http://resim.fullhdfilmizle.org/mdsresim_izle/fullhd-hayvan-animal.jpg'/>Hayvan]]></description>
+    <stream_url><![CDATA[http://odnoklassniki.ru/videoembed/32584764082]]></stream_url>
+  </channel>
+  <channel>
+    <title><![CDATA[Hayvan Düşü]]></title>
+    <logo_30x30><![CDATA[http://resim.fullhdfilmizle.org/mdsresim_izle/fullhd-hayvan-dusu-when-animals-dream.jpg]]></logo_30x30>
+    <description><![CDATA[<img src='http://resim.fullhdfilmizle.org/mdsresim_izle/fullhd-hayvan-dusu-when-animals-dream.jpg'/>Hayvan Düşü]]></description>
+    <stream_url><![CDATA[http://odnoklassniki.ru/videoembed/32151964338]]></stream_url>
+  </channel>
+  <channel>
+    <title><![CDATA[İşkence odası]]></title>
+    <logo_30x30><![CDATA[http://resim.fullhdfilmizle.org/mdsresim_izle/fullhd-iskence-odasi-torture-chamber.jpg]]></logo_30x30>
+    <description><![CDATA[<img src='http://resim.fullhdfilmizle.org/mdsresim_izle/fullhd-iskence-odasi-torture-chamber.jpg'/>İşkence odası]]></description>
+    <stream_url><![CDATA[http://odnoklassniki.ru/videoembed/27672775375]]></stream_url>
+  </channel>
+  <channel>
+    <title><![CDATA[Jesabella]]></title>
+    <logo_30x30><![CDATA[http://birhdfilm.com/wp-content/uploads/2014/11/jessabelle-izle-e1415567821970.jpg]]></logo_30x30>
+    <description><![CDATA[<img src='http://birhdfilm.com/wp-content/uploads/2014/11/jessabelle-izle-e1415567821970.jpg'/>Jesabella]]></description>
+    <stream_url><![CDATA[http://odnoklassniki.ru/videoembed/29524429550]]></stream_url>
+  </channel>
+  <channel>
+    <title><![CDATA[Kanlı Yaz - Summers Blood]]></title>
+    <logo_30x30><![CDATA[http://resim.fullhdfilmizle.org/mdsresim_izle/fullhd-kanli-yaz-summers-blood.jpg]]></logo_30x30>
+    <description><![CDATA[<img src='http://resim.fullhdfilmizle.org/mdsresim_izle/fullhd-kanli-yaz-summers-blood.jpg'/>Kanlı Yaz - Summers Blood]]></description>
+    <stream_url><![CDATA[http://odnoklassniki.ru/videoembed/32614189700]]></stream_url>
+  </channel>
+  <channel>
+    <title><![CDATA[karabasan]]></title>
+    <logo_30x30><![CDATA[http://resim.fullhdfilmizle.org/mdsresim_izle/fullhd-karabasan-the-babadook.jpg]]></logo_30x30>
+    <description><![CDATA[<img src='http://resim.fullhdfilmizle.org/mdsresim_izle/fullhd-karabasan-the-babadook.jpg'/>karabasan]]></description>
+    <stream_url><![CDATA[http://odnoklassniki.ru/videoembed/25277237967]]></stream_url>
+  </channel>
+  <channel>
+    <title><![CDATA[karanlıkta düşeriz]]></title>
+    <logo_30x30><![CDATA[http://resim.fullhdfilmizle.org/mdsresim_izle/fullhd-karanlikta-duseriz-in-darkness-we-fall.jpg]]></logo_30x30>
+    <description><![CDATA[<img src='http://resim.fullhdfilmizle.org/mdsresim_izle/fullhd-karanlikta-duseriz-in-darkness-we-fall.jpg'/>karanlıkta düşeriz]]></description>
+    <stream_url><![CDATA[http://odnoklassniki.ru/videoembed/25106254543]]></stream_url>
+  </channel>
+  <channel>
+    <title><![CDATA[Katliam gecesi]]></title>
+    <logo_30x30><![CDATA[http://resim.fullhdfilmizle.org/mdsresim_izle/fullhd-katliam-gecesi-you-re-next-film-.jpg]]></logo_30x30>
+    <description><![CDATA[<img src='http://resim.fullhdfilmizle.org/mdsresim_izle/fullhd-katliam-gecesi-you-re-next-film-.jpg'/>Katliam gecesi]]></description>
+    <stream_url><![CDATA[http://odnoklassniki.ru/videoembed/30781606611]]></stream_url>
+  </channel>
+  <channel>
+    <title><![CDATA[Korku Kapanı 6]]></title>
+    <logo_30x30><![CDATA[http://www.bicaps.net/wp-content/uploads/1413470292-e1439307424903.jpeg]]></logo_30x30>
+    <description><![CDATA[<img src='http://www.bicaps.net/wp-content/uploads/1413470292-e1439307424903.jpeg'/>Korku Kapanı 6]]></description>
+    <stream_url><![CDATA[http://odnoklassniki.ru/videoembed/32394775159]]></stream_url>
+  </channel>
+  <channel>
+    <title><![CDATA[Kristy]]></title>
+    <logo_30x30><![CDATA[http://resim.fullhdfilmizle.org/mdsresimx/fullhd-kristy-film-izle.jpg]]></logo_30x30>
+    <description><![CDATA[<img src='http://resim.fullhdfilmizle.org/mdsresimx/fullhd-kristy-film-izle.jpg'/>Kristy]]></description>
+    <stream_url><![CDATA[http://odnoklassniki.ru/videoembed/30780623571]]></stream_url>
+  </channel>
+  <channel>
+    <title><![CDATA[Kurtlar Şehri]]></title>
+    <logo_30x30><![CDATA[http://resim.fullhdfilmizle.org/mdsresim_izle/fullhd-kurtlar-sehri-wolf-town.jpg]]></logo_30x30>
+    <description><![CDATA[<img src='http://resim.fullhdfilmizle.org/mdsresim_izle/fullhd-kurtlar-sehri-wolf-town.jpg'/>Kurtlar Şehri]]></description>
+    <stream_url><![CDATA[http://odnoklassniki.ru/videoembed/27873577679]]></stream_url>
+  </channel>
+  <channel>
+    <title><![CDATA[Late Phases Tr altyazı]]></title>
+    <logo_30x30><![CDATA[http://resim.fullhdfilmizle.org/mdsresim_izle/fullhd-late-phases.jpg]]></logo_30x30>
+    <description><![CDATA[<img src='http://resim.fullhdfilmizle.org/mdsresim_izle/fullhd-late-phases.jpg'/>Late Phases Tr altyazı]]></description>
+    <stream_url><![CDATA[http://odnoklassniki.ru/videoembed/26007636687]]></stream_url>
+  </channel>
+  <channel>
+    <title><![CDATA[mahşer]]></title>
+    <logo_30x30><![CDATA[http://resim.fullhdfilmizle.org/mdsresim_izle/fullhd-the-remaining-film-izle.jpg]]></logo_30x30>
+    <description><![CDATA[<img src='http://resim.fullhdfilmizle.org/mdsresim_izle/fullhd-the-remaining-film-izle.jpg'/>mahşer]]></description>
+    <stream_url><![CDATA[https://vk.com/video_ext.php?oid=271149589&id=171219832&hash=853ff312118b9733&hd=2]]></stream_url>
+  </channel>
+  <channel>
+    <title><![CDATA[Mihrez: Cin Padişahı]]></title>
+    <logo_30x30><![CDATA[http://www.hdfilmcehennemi.com/wp-content/uploads/mihrez-125x160.jpg]]></logo_30x30>
+    <description><![CDATA[<img src='http://www.hdfilmcehennemi.com/wp-content/uploads/mihrez-125x160.jpg'/>Mihrez: Cin Padişahı]]></description>
+    <stream_url><![CDATA[http://odnoklassniki.ru/videoembed/34899364525]]></stream_url>
+  </channel>
+  <channel>
+    <title><![CDATA[Neverlake Tr Dublaj]]></title>
+    <logo_30x30><![CDATA[https://upload.wikimedia.org/wikipedia/en/e/e6/Neverlake_film_poster.jpg]]></logo_30x30>
+    <description><![CDATA[<img src=''/>Neverlake Tr Dublaj]]></description>
+    <stream_url><![CDATA[http://odnoklassniki.ru/videoembed/33071368874]]></stream_url>
+  </channel>
+  <channel>
+    <title><![CDATA[ölülerin amacı]]></title>
+    <logo_30x30><![CDATA[http://resim.fullhdfilmizle.org/mdsresim_izle/fullhd-olulerin-amaci-goal-of-the-dead.jpg]]></logo_30x30>
+    <description><![CDATA[<img src='http://resim.fullhdfilmizle.org/mdsresim_izle/fullhd-olulerin-amaci-goal-of-the-dead.jpg'/>ölülerin amacı]]></description>
+    <stream_url><![CDATA[http://odnoklassniki.ru/videoembed/25627527887]]></stream_url>
+  </channel>
+  <channel>
+    <title><![CDATA[Ölüm alfabesi]]></title>
+    <logo_30x30><![CDATA[http://resim.fullhdfilmizle.org/mdsresim_izle/fullhd-olum-alfabesi-ouija-film-izle.jpg]]></logo_30x30>
+    <description><![CDATA[<img src='http://resim.fullhdfilmizle.org/mdsresim_izle/fullhd-olum-alfabesi-ouija-film-izle.jpg'/>Ölüm alfabesi]]></description>
+    <stream_url><![CDATA[https://vk.com/video_ext.php?oid=309843097&id=171629628&hash=6d9e7815e1543257&hd=2]]></stream_url>
+  </channel>
+  <channel>
+    <title><![CDATA[Ölüm Ormanı]]></title>
+    <logo_30x30><![CDATA[http://resim.fullhdfilmizle.org/mdsresim_izle/fullhd-olum-ormani-backcountry.jpg]]></logo_30x30>
+    <description><![CDATA[<img src='http://resim.fullhdfilmizle.org/mdsresim_izle/fullhd-olum-ormani-backcountry.jpg'/>Ölüm Ormanı]]></description>
+    <stream_url><![CDATA[http://odnoklassniki.ru/videoembed/32820824746]]></stream_url>
+  </channel>
+  <channel>
+    <title><![CDATA[Ölüm Timi - Cannon Fodder]]></title>
+    <logo_30x30><![CDATA[http://resim.fullhdfilmizle.org/mdsresim_izle/fullhd-olum-timi-cannon-fodder.jpg]]></logo_30x30>
+    <description><![CDATA[<img src='http://resim.fullhdfilmizle.org/mdsresim_izle/fullhd-olum-timi-cannon-fodder.jpg'/>Labirent: Alev Deneyleri]]></description>
+    <stream_url><![CDATA[http://odnoklassniki.ru/videoembed/33621871236]]></stream_url>
+  </channel>
+  <channel>
+    <title><![CDATA[palyaço]]></title>
+    <logo_30x30><![CDATA[http://resim.fullhdfilmizle.org/mdsresim_izle/fullhd-clown-film-izle.jpg]]></logo_30x30>
+    <description><![CDATA[<img src='http://resim.fullhdfilmizle.org/mdsresim_izle/fullhd-clown-film-izle.jpg'/>palyaço]]></description>
+    <stream_url><![CDATA[http://odnoklassniki.ru/videoembed/26009144015]]></stream_url>
+  </channel>
+  <channel>
+    <title><![CDATA[PAYMON — SON VARDİYA ]]></title>
+    <logo_30x30><![CDATA[http://birhdfilm.com/wp-content/uploads/2015/08/son-vardiya-izle-e1439827287785.jpg]]></logo_30x30>
+    <description><![CDATA[<img src='http://birhdfilm.com/wp-content/uploads/2015/08/son-vardiya-izle-e1439827287785.jpg'/>PAYMON — SON VARDİYA]]></description>
+    <stream_url><![CDATA[http://vk.com/video_ext.php?oid=318787418&id=171235295&hash=2856e978d1274f0e]]></stream_url>
+  </channel>
+  <channel>
+    <title><![CDATA[PERNİCİOUS ]]></title>
+    <logo_30x30><![CDATA[https://horrorpediadotcom.files.wordpress.com/2015/03/pernicious-horror-movie-2014-poster.jpg]]></logo_30x30>
+    <description><![CDATA[<img src=''/>PERNİCİOUS]]></description>
+    <stream_url><![CDATA[http://odnoklassniki.ru/videoembed/36006070957]]></stream_url>
+  </channel>
+  <channel>
+    <title><![CDATA[Ruhlar Bölgesi Bölüm 3 - IMDB : 6.5]]></title>
+    <logo_30x30><![CDATA[http://resim.fullhdfilmizle.org/mdsresim_izle/fullhd-ruhlar-bolgesi-bolum-3-insidious-chapter-3.jpg]]></logo_30x30>
+    <description><![CDATA[<img src='http://resim.fullhdfilmizle.org/mdsresim_izle/fullhd-ruhlar-bolgesi-bolum-3-insidious-chapter-3.jpg'/>Ruhlar Bölgesi Bölüm 3 - IMDB : 6.5]]></description>
+    <stream_url><![CDATA[http://odnoklassniki.ru/videoembed/33627835050]]></stream_url>
+  </channel>
+  <channel>
+    <title><![CDATA[SAKLI SIRLAR – THE SİLENCED]]></title>
+    <logo_30x30><![CDATA[http://img01.imgsinemalar.com/images/afis_dev/t/the-silenced-1434917747.jpg]]></logo_30x30>
+    <description><![CDATA[<img src='http://img01.imgsinemalar.com/images/afis_dev/t/the-silenced-1434917747.jpg'/>SAKLI SIRLAR – THE SİLENCED]]></description>
+    <stream_url><![CDATA[http://odnoklassniki.ru/videoembed/34126367315]]></stream_url>
+  </channel>
+  <channel>
+    <title><![CDATA[Sığınak - Hidden]]></title>
+    <logo_30x30><![CDATA[http://resim.fullhdfilmizle.org/mdsresim_izle/fullhd-siginak-hidden.jpg]]></logo_30x30>
+    <description><![CDATA[<img src='http://resim.fullhdfilmizle.org/mdsresim_izle/fullhd-siginak-hidden.jpg'/>Sığınak - Hidden]]></description>
+    <stream_url><![CDATA[http://odnoklassniki.ru/videoembed/32886884996]]></stream_url>
+  </channel>
+  <channel>
+    <title><![CDATA[siyahlı kadın 2 ölüm meleği Tr altyazı]]></title>
+    <logo_30x30><![CDATA[http://resim.fullhdfilmizle.org/mdsresim_izle/fullhd-siyahli-kadin-2-olum-melegi.jpg]]></logo_30x30>
+    <description><![CDATA[<img src='http://resim.fullhdfilmizle.org/mdsresim_izle/fullhd-siyahli-kadin-2-olum-melegi.jpg'/>siyahlı kadın 2 ölüm meleği Tr altyazı]]></description>
+    <stream_url><![CDATA[http://odnoklassniki.ru/videoembed/24547691215]]></stream_url>
+  </channel>
+  <channel>
+    <title><![CDATA[Şeytana karşı]]></title>
+    <logo_30x30><![CDATA[http://birhdfilm.com/wp-content/uploads/2015/07/seytana-karsi-izle-e1438114801354.jpg]]></logo_30x30>
+    <description><![CDATA[<img src='http://birhdfilm.com/wp-content/uploads/2015/07/seytana-karsi-izle-e1438114801354.jpg'/>Şeytana karşı]]></description>
+    <stream_url><![CDATA[http://odnoklassniki.ru/videoembed/38366874341]]></stream_url>
+  </channel>
+  <channel>
+    <title><![CDATA[Şeytanın evi]]></title>
+    <logo_30x30><![CDATA[http://resim.fullhdfilmizle.org/mdsresim_izle/fullhd-seytanin-evi-the-house-of-the-de.jpgg]]></logo_30x30>
+    <description><![CDATA[<img src='http://resim.fullhdfilmizle.org/mdsresim_izle/fullhd-seytanin-evi-the-house-of-the-de.jpg'/>Şeytanın evi]]></description>
+    <stream_url><![CDATA[https://vk.com/video_ext.php?oid=228852593&id=168375653&hash=2cb71f691a94b57b&hd=2]]></stream_url>
+  </channel>
+  <channel>
+    <title><![CDATA[Şeytanın Kapısında - At The Devil's Door]]></title>
+    <logo_30x30><![CDATA[http://resim.fullhdfilmizle.org/mdsresim_izle/fullhd-seytanin-kapisinda-at-the-devil-s-door.jpg]]></logo_30x30>
+    <description><![CDATA[<img src='http://resim.fullhdfilmizle.org/mdsresim_izle/fullhd-seytanin-kapisinda-at-the-devil-s-door.jpg'/>Şeytanın Kapısında - At The Devil's Door]]></description>
+    <stream_url><![CDATA[http://odnoklassniki.ru/videoembed/33071106692]]></stream_url>
+  </channel>
+  <channel>
+    <title><![CDATA[Şeytani Ruhlar]]></title>
+    <logo_30x30><![CDATA[http://birhdfilm.com/wp-content/uploads/2015/05/seytani-ruhlar-izle-e1432333803794.jpg]]></logo_30x30>
+    <description><![CDATA[<img src='http://birhdfilm.com/wp-content/uploads/2015/05/seytani-ruhlar-izle-e1432333803794.jpg'/>Şeytani Ruhlar]]></description>
+    <stream_url><![CDATA[http://odnoklassniki.ru/videoembed/30758669048]]></stream_url>
+  </channel>
+  <channel>
+    <title><![CDATA[The Final Girls]]></title>
+    <logo_30x30><![CDATA[http://resim.fullhdfilmizle.org/mdsresim_izle/fullhd-the-final-girls.jpg]]></logo_30x30>
+    <description><![CDATA[<img src='http://resim.fullhdfilmizle.org/mdsresim_izle/fullhd-the-final-girls.jpg'/>The Final Girls]]></description>
+    <stream_url><![CDATA[http://odnoklassniki.ru/videoembed/33529531012]]></stream_url>
+  </channel>
+  <channel>
+    <title><![CDATA[TORTU – RESİDUE ]]></title>
+    <logo_30x30><![CDATA[http://static.wixstatic.com/media/dd6434_9b9df3b720264f6497179f62dea08671.jpg]]></logo_30x30>
+    <description><![CDATA[<img src='http://static.wixstatic.com/media/dd6434_9b9df3b720264f6497179f62dea08671.jpg'/>TORTU – RESİDUE]]></description>
+    <stream_url><![CDATA[http://odnoklassniki.ru/videoembed/28946598434]]></stream_url>
+  </channel>
+  <channel>
+    <title><![CDATA[Tuhaf Ev]]></title>
+    <logo_30x30><![CDATA[http://resim.fullhdfilmizle.org/mdsresim_izle/fullhd-tuhaf-ev-musaranas.jpg]]></logo_30x30>
+    <description><![CDATA[<img src='http://resim.fullhdfilmizle.org/mdsresim_izle/fullhd-tuhaf-ev-musaranas.jpg'/>Tuhaf Ev]]></description>
+    <stream_url><![CDATA[http://odnoklassniki.ru/videoembed/32208980658]]></stream_url>
+  </channel>
+  <channel>
+    <title><![CDATA[Wyrmwood Tr altyazı]]></title>
+    <logo_30x30><![CDATA[http://resim.fullhdfilmizle.org/mdsresim_izle/fullhd-wyrmwood-hd-film-izle.jpg]]></logo_30x30>
+    <description><![CDATA[<img src='http://resim.fullhdfilmizle.org/mdsresim_izle/fullhd-wyrmwood-hd-film-izle.jpg'/>Wyrmwood Tr altyazı]]></description>
+    <stream_url><![CDATA[http://odnoklassniki.ru/videoembed/24297736911]]></stream_url>
+  </channel>
+  <channel>
+    <title><![CDATA[Yabancı - The Stranger Tr altyazı]]></title>
+    <logo_30x30><![CDATA[http://resim.fullhdfilmizle.org/mdsresim_izle/fullhd-yabanci-the-stranger-2.jpg]]></logo_30x30>
+    <description><![CDATA[<img src='http://resim.fullhdfilmizle.org/mdsresim_izle/fullhd-yabanci-the-stranger-2.jpg'/>Yabancı - The Stranger Tr altyazı]]></description>
+    <stream_url><![CDATA[http://odnoklassniki.ru/videoembed/29275916978]]></stream_url>
+  </channel>
+  <next_page_url text=""><![CDATA[]]></next_page_url>
+  <prev_page_url text=""><![CDATA[]]></prev_page_url>
+</items>

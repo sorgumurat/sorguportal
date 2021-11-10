@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<items>
+<playlist_name><![CDATA[SORGU PORTAL]]></playlist_name>	
+
+<music>https://dl.dropboxusercontent.com/s/v920hwinhyyhf5p/LP-Lost_On_You.mp3</music>
+<channel>
+
+		<title><![CDATA[INFO Lütfen Okuyunuz]]></title>
+		<logo_30x30><![CDATA[http://i.hizliresim.com/L4rQAo.jpg]]></logo_30x30>
+		<description><![CDATA[<img src="http://i.hizliresim.com/L4rQAo.jpg" </img> ]]></description>
+		<stream_url><![CDATA[https://www.youtube.com/embed/9Q5LMXITG5o]]></stream_url>
+	</channel>
+<channel>
+		<title><![CDATA[Anime Diziler]]></title>
+		<logo_30x30><![CDATA[http://i.hizliresim.com/AYMmLL.jpg]]></logo_30x30>
+		<description><![CDATA[<img src="http://i.hizliresim.com/AYMmLL.jpg" </img> ]]></description>
+		    <playlist_url><![CDATA[https://cloudme.com/v1/ws2/:sorgumurat/:animemenu/animemenu.xml?dl=animemenu.xml]]></playlist_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[Western Kuşağı ]]></title>
+		<logo_30x30><![CDATA[http://i.hizliresim.com/AYMmLL.jpg]]></logo_30x30>
+		<description><![CDATA[<img src="http://i.hizliresim.com/AYMmLL.jpg" </img> ]]></description>
+		<playlist_url><![CDATA[https://cloudme.com/v1/ws2/:sorgumurat/:western/western.xml?dl=western.xml]]></playlist_url>
+	</channel>
+	<channel>
+		<title><![CDATA[Çizgi Roman ]]></title>
+		<logo_30x30><![CDATA[http://i.hizliresim.com/AYMmLL.jpg]]></logo_30x30>
+		<description><![CDATA[<img src="http://i.hizliresim.com/AYMmLL.jpg" </img> ]]></description>
+		<playlist_url><![CDATA[https://cloudme.com/v1/ws2/:sorgumurat/:cizgiroman/cizgiroman.xml?dl=cizgiroman.xml]]></playlist_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[Tamamlanmış Diziler ]]></title>
+		<logo_30x30><![CDATA[http://i.hizliresim.com/AYMmLL.jpg]]></logo_30x30>
+		<description><![CDATA[<img src="http://i.hizliresim.com/AYMmLL.jpg" </img> ]]></description>
+		<playlist_url><![CDATA[https://cloudme.com/v1/ws2/:sorgumurat/:eskidizi/eskidizi.xml?dl=eskidizi.xml]]></playlist_url>
+	</channel>
+	<channel>
+		<title><![CDATA[Film Kutusu]]></title>
+		<logo_30x30><![CDATA[http://i.hizliresim.com/AYMmLL.jpg]]></logo_30x30>
+		<description><![CDATA[<img src="http://i.hizliresim.com/AYMmLL.jpg" </img><br> SÄ°NEMA IPTV]]></description>
+		<playlist_url><![CDATA[https://cloudme.com/v1/ws2/:sorgumurat/:filmkutusu/filmkutusu.xml?dl=filmkutusu.xml]]></playlist_url>
+	</channel>
+	<channel>
+		<title><![CDATA[HOBİ]]></title>
+		<logo_30x30><![CDATA[http://i.hizliresim.com/AYMmLL.jpg]]></logo_30x30>
+		<description><![CDATA[<img src="http://i.hizliresim.com/AYMmLL.jpg" </img><br> yerli film]]></description>
+		<playlist_url><![CDATA[https://cloudme.com/v1/ws2/:sorgumurat/:hobi/hobi.xml?dl=hobi.xml]]></playlist_url>
+	</channel>
+
+</items>

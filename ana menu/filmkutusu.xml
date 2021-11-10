@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<items>
+		<playlist_name><![CDATA[trdublaj]]></playlist_name>
+
+<music>https://dl.dropboxusercontent.com/s/v920hwinhyyhf5p/LP-Lost_On_You.mp3</music>
+	<channel>
+		<title><![CDATA[Fragmanlar]]></title>
+		<logo_30x30><![CDATA[http://i.hizliresim.com/AYMmLL.jpg]]></logo_30x30>
+		<description><![CDATA[<img src="http://i.hizliresim.com/AYMmLL.jpg" </img>]]></description>
+		<playlist_url><![CDATA[https://cloudme.com/v1/ws2/:sorgumurat/:fragnan/fragnan.xml?dl=fragnan.xml]]></playlist_url>
+	</channel>
+	<channel>
+		<title><![CDATA[Arzu Film Youtube]]></title>
+		<logo_30x30><![CDATA[http://i.hizliresim.com/AYMmLL.jpg]]></logo_30x30>
+		<description><![CDATA[<img src="http://i.hizliresim.com/AYMmLL.jpg" </img>]]></description>
+		<playlist_url><![CDATA[https://cloudme.com/v1/ws2/:sorgumurat/:arzufilm/arzufilm.xml?dl=arzufilm.xml]]></playlist_url>
+		</channel>
+	<channel>
+		<title><![CDATA[vizyon]]></title>
+		<logo_30x30><![CDATA[http://i.hizliresim.com/AYMmLL.jpg]]></logo_30x30>
+		<description><![CDATA[<img src="http://i.hizliresim.com/AYMmLL.jpg" </img>]]></description>
+		<playlist_url><![CDATA[https://www.cloudme.com/v1/ws2/:sorgumurat/:vizyon/vizyon.xml?dl=vizyon.xml]]></playlist_url>
+	</channel>
+	<channel>
+		<title><![CDATA[Korku]]></title>
+		<logo_30x30><![CDATA[http://i.hizliresim.com/AYMmLL.jpg]]></logo_30x30>
+		<description><![CDATA[<img src="http://i.hizliresim.com/AYMmLL.jpg" </img>]]></description>
+		<playlist_url><![CDATA[https://cloudme.com/v1/ws2/:sorgumurat/:korku/korku.xml?dl=korku.xml]]></playlist_url>
+	</channel>
+	<channel>
+		<title><![CDATA[Yerli Filmler]]></title>
+		<logo_30x30><![CDATA[http://i.hizliresim.com/AYMmLL.jpg]]></logo_30x30>
+		<description><![CDATA[<img src="http://i.hizliresim.com/AYMmLL.jpg" </img>]]></description>
+		<playlist_url><![CDATA[https://cloudme.com/v1/ws2/:sorgumurat/:trkcfilm/trkcfilm.xml?dl=trkcfilm.xml]]></playlist_url>
+	</channel>
+	<channel>
+		<title><![CDATA[Alfabetik Eski Türk Filmleri]]></title>
+		<logo_30x30><![CDATA[http://i.hizliresim.com/AYMmLL.jpg]]></logo_30x30>
+		<description><![CDATA[<img src="http://i.hizliresim.com/AYMmLL.jpg" </img><br> yerli film]]></description>
+		<playlist_url><![CDATA[https://cloudme.com/v1/ws2/:sorgumurat/:TurkFilmleri/TurkFilmleri.xml?dl=TurkFilmleri.xml]]></playlist_url>
+	</channel>
+	<channel>
+		<title><![CDATA[Kemal Sunal Filmleri]]></title>
+		<logo_30x30><![CDATA[http://i.hizliresim.com/AYMmLL.jpg]]></logo_30x30>
+		<description><![CDATA[<img src="http://i.hizliresim.com/AYMmLL.jpg" </img><br> yerli film]]></description>
+		<playlist_url><![CDATA[https://www.cloudme.com/v1/ws2/:sorgumurat/:kemalsunal/kemalsunal.xml?dl=kemalsunal.xml]]></playlist_url>
+	</channel>
+	
+</items>

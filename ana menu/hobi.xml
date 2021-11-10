@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<items>
+		<playlist_name><![CDATA[hobi]]></playlist_name>
+
+	<channel>
+		<title><![CDATA[Makrome örgü takı ve süs]]></title>
+		<logo_30x30><![CDATA[http://i.hizliresim.com/AYMmLL.jpg]]></logo_30x30>
+		<description><![CDATA[<img src="http://i.hizliresim.com/AYMmLL.jpg" </img> ]]></description>
+		<playlist_url><![CDATA[https://dl.dropboxusercontent.com/s/mtkdgv4qhdj3m6q/MACROME.xml]]></playlist_url>
+	</channel>
+	<channel>
+		<title><![CDATA[El işi süs yapımı]]></title>
+		<logo_30x30><![CDATA[http://i.hizliresim.com/AYMmLL.jpg]]></logo_30x30>
+		<description><![CDATA[<img src="http://i.hizliresim.com/AYMmLL.jpg" </img> ]]></description>
+		<playlist_url><![CDATA[https://dl.dropboxusercontent.com/s/0bnuvri8069v7lc/elisi.xml]]></playlist_url>
+	</channel>
+	<channel>
+		<title><![CDATA[HAT sanatı]]></title>
+		<logo_30x30><![CDATA[http://i.hizliresim.com/AYMmLL.jpg]]></logo_30x30>
+		<description><![CDATA[<img src="http://i.hizliresim.com/AYMmLL.jpg" </img> ]]></description>
+		<playlist_url><![CDATA[https://dl.dropboxusercontent.com/s/vveey7lwkrqw7e7/hatsanati.xml]]></playlist_url>
+	</channel>
+	 <channel>
+		<title><![CDATA[ahşap oyma sanatı]]></title>
+		<logo_30x30><![CDATA[http://i.hizliresim.com/AYMmLL.jpg]]></logo_30x30>
+		<description><![CDATA[<img src="http://i.hizliresim.com/AYMmLL.jpg" </img> ]]></description>
+		<playlist_url><![CDATA[https://dl.dropboxusercontent.com/s/w2csaeus7zx50ak/agacoyma.xml]]></playlist_url>
+	</channel>
+	<channel>
+		<title><![CDATA[origami - kağıt katlama sanatı]]></title>
+		<logo_30x30><![CDATA[http://i.hizliresim.com/AYMmLL.jpg]]></logo_30x30>
+		<description><![CDATA[<img src="http://i.hizliresim.com/AYMmLL.jpg" </img> ]]></description>
+		<playlist_url><![CDATA[https://dl.dropboxusercontent.com/s/ic2i8y1e802xo44/origami.xml]]></playlist_url>
+	</channel>
+	<channel>
+		<title><![CDATA[ebru sanatı]]></title>
+		<logo_30x30><![CDATA[http://www.asianturkey.com/CappadociaTours/Ebru.jpg]]></logo_30x30>
+		<description><![CDATA[<img src="http://www.asianturkey.com/CappadociaTours/Ebru.jpg" </img> ]]></description>
+		<playlist_url><![CDATA[https://dl.dropboxusercontent.com/s/wwarddsox0qfl4y/ebru.xml]]></playlist_url>
+	</channel>
+</items>
+
+

@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<items>
+    <playlist_name><![CDATA[Playlist]]></playlist_name>
+<channel>
+<title><![CDATA[pub]]></title>
+<logo_30x30><![CDATA[0]]></logo_30x30>
+<description><![CDATA[<img src='0'/]]></description>
+<stream_url><![CDATA[https://www.specialcdn.pw/iframe/play.php?id=1950441351635694&uid=server37]]></stream_url>
+</channel>
+<channel>
+<title><![CDATA[moly]]></title>
+<logo_30x30><![CDATA[0]]></logo_30x30>
+<description><![CDATA[<img src=0]]></description>
+<stream_url><![CDATA[https://vidmoly.me/embed-.html]]></stream_url>
+</channel>
+<channel>
+<title><![CDATA[open]]></title>
+<logo_30x30><![CDATA[0]]></logo_30x30>
+<description><![CDATA[<img src=0]]></description>
+<stream_url><![CDATA[https://oload.tv/embed/l-klLZgDrDI/]]></stream_url>
+</channel>
+<channel>
+<title><![CDATA[okru]]></title>
+<logo_30x30><![CDATA[0]]></logo_30x30>
+<description><![CDATA[<img src=0]]></description>
+<stream_url><![CDATA[https://ok.ru/videoembed/833432849043]]></stream_url>
+</channel>
+</items>

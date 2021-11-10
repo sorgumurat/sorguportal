@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<items>
+    <playlist_name><![CDATA[Playlist]]></playlist_name>
+
+<channel>
+<title><![CDATA[moly]]></title>
+<logo_30x30><![CDATA[0]]></logo_30x30>
+<description><![CDATA[<img src=0]]></description>
+<stream_url><![CDATA[https://vidmoly.me/embed-p8bxcoalegz1.html]]></stream_url>
+</channel>
+<channel>
+<title><![CDATA[open]]></title>
+<logo_30x30><![CDATA[0]]></logo_30x30>
+<description><![CDATA[<img src=0]]></description>
+<stream_url><![CDATA[https://oload.tv/embed/UDDXXCf-m5E/badlands306.mp4]]></stream_url>
+</channel>
+<channel>
+<title><![CDATA[okru]]></title>
+<logo_30x30><![CDATA[0]]></logo_30x30>
+<description><![CDATA[<img src=0]]></description>
+<stream_url><![CDATA[https://ok.ru/videoembed/1026330200621]]></stream_url>
+</channel>
+</items>
