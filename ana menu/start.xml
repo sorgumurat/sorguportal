@@ -14,39 +14,39 @@
 		<title><![CDATA[Anime Diziler]]></title>
 		<logo_30x30><![CDATA[http://i.hizliresim.com/AYMmLL.jpg]]></logo_30x30>
 		<description><![CDATA[<img src="http://i.hizliresim.com/AYMmLL.jpg" </img> ]]></description>
-		    <playlist_url><![CDATA[https://cloudme.com/v1/ws2/:sorgumurat/:animemenu/animemenu.xml?dl=animemenu.xml]]></playlist_url>
+		    <playlist_url><![CDATA[https://raw.githubusercontent.com/sorgumurat/sorguportal/main/ana%20menu/animemenu.xml]]></playlist_url>
 	</channel>
 
 	<channel>
 		<title><![CDATA[Western Kuşağı ]]></title>
 		<logo_30x30><![CDATA[http://i.hizliresim.com/AYMmLL.jpg]]></logo_30x30>
 		<description><![CDATA[<img src="http://i.hizliresim.com/AYMmLL.jpg" </img> ]]></description>
-		<playlist_url><![CDATA[https://cloudme.com/v1/ws2/:sorgumurat/:western/western.xml?dl=western.xml]]></playlist_url>
+		<playlist_url><![CDATA[https://raw.githubusercontent.com/sorgumurat/sorguportal/main/ana%20menu/western.xml]]></playlist_url>
 	</channel>
 	<channel>
 		<title><![CDATA[Çizgi Roman ]]></title>
 		<logo_30x30><![CDATA[http://i.hizliresim.com/AYMmLL.jpg]]></logo_30x30>
 		<description><![CDATA[<img src="http://i.hizliresim.com/AYMmLL.jpg" </img> ]]></description>
-		<playlist_url><![CDATA[https://cloudme.com/v1/ws2/:sorgumurat/:cizgiroman/cizgiroman.xml?dl=cizgiroman.xml]]></playlist_url>
+		<playlist_url><![CDATA[https://raw.githubusercontent.com/sorgumurat/sorguportal/main/ana%20menu/cizgiroman.xml]]></playlist_url>
 	</channel>
 
 	<channel>
 		<title><![CDATA[Tamamlanmış Diziler ]]></title>
 		<logo_30x30><![CDATA[http://i.hizliresim.com/AYMmLL.jpg]]></logo_30x30>
 		<description><![CDATA[<img src="http://i.hizliresim.com/AYMmLL.jpg" </img> ]]></description>
-		<playlist_url><![CDATA[https://cloudme.com/v1/ws2/:sorgumurat/:eskidizi/eskidizi.xml?dl=eskidizi.xml]]></playlist_url>
+		<playlist_url><![CDATA[https://raw.githubusercontent.com/sorgumurat/sorguportal/main/ana%20menu/eskidizi.xml]]></playlist_url>
 	</channel>
 	<channel>
 		<title><![CDATA[Film Kutusu]]></title>
 		<logo_30x30><![CDATA[http://i.hizliresim.com/AYMmLL.jpg]]></logo_30x30>
 		<description><![CDATA[<img src="http://i.hizliresim.com/AYMmLL.jpg" </img><br> SÄ°NEMA IPTV]]></description>
-		<playlist_url><![CDATA[https://cloudme.com/v1/ws2/:sorgumurat/:filmkutusu/filmkutusu.xml?dl=filmkutusu.xml]]></playlist_url>
+		<playlist_url><![CDATA[https://raw.githubusercontent.com/sorgumurat/sorguportal/main/ana%20menu/filmkutusu.xml]]></playlist_url>
 	</channel>
 	<channel>
 		<title><![CDATA[HOBİ]]></title>
 		<logo_30x30><![CDATA[http://i.hizliresim.com/AYMmLL.jpg]]></logo_30x30>
 		<description><![CDATA[<img src="http://i.hizliresim.com/AYMmLL.jpg" </img><br> yerli film]]></description>
-		<playlist_url><![CDATA[https://cloudme.com/v1/ws2/:sorgumurat/:hobi/hobi.xml?dl=hobi.xml]]></playlist_url>
+		<playlist_url><![CDATA[https://raw.githubusercontent.com/sorgumurat/sorguportal/main/ana%20menu/hobi.xml]]></playlist_url>
 	</channel>
 
 </items>
