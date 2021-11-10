@@ -6,14 +6,14 @@
 		<title><![CDATA[Monster]]></title>
 		<logo_30x30><![CDATA[https://www.turkanime.net/imajlar/serilerb/191.jpg]]></logo_30x30>
 		<description><![CDATA[<img src="https://www.turkanime.net/imajlar/serilerb/191.jpg" </img>]]></description>
-		<playlist_url><![CDATA[https://cloudme.com/v1/ws2/:sorgumurat/:Monster/Monster.xml?dl=Monster.xml]]></playlist_url>
+		<playlist_url><![CDATA[https://raw.githubusercontent.com/sorgumurat/sorguportal/main/anime/Monster.xml]]></playlist_url>
 	</channel>
 	
 	<channel>
 		<title><![CDATA[Ahiru no Sora]]></title>
 		<logo_30x30><![CDATA[https://static.tranimeizle.net/animes/2555/large.jpeg]]></logo_30x30>
 		<description><![CDATA[<img src="https://static.tranimeizle.net/animes/2555/large.jpeg" </img>]]></description>
-		<playlist_url><![CDATA[https://cloudme.com/v1/ws2/:sorgumurat/:Ahiruno/Ahiruno.xml?dl=Ahiruno.xml]]></playlist_url>
+		<playlist_url><![CDATA[https://raw.githubusercontent.com/sorgumurat/sorguportal/main/anime/Ahiruno.xml]]></playlist_url>
 	</channel>
 
 	Ahiruno
