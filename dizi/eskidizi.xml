@@ -7,91 +7,91 @@
 		<title><![CDATA[13 Reasons Why]]></title>
 		<logo_30x30><![CDATA[http://22dakika.org/wp-content/uploads/2017/03/13-Reasons-Why.jpeg]]></logo_30x30>
 		<description><![CDATA[<img src="http://22dakika.org/wp-content/uploads/2017/03/13-Reasons-Why.jpeg">]]></description>
-		<playlist_url><![CDATA[https://cloudme.com/v1/ws2/:sorgumurat/:13reason/13reason.xml?dl=13reason.xml]]></playlist_url>
+		<playlist_url><![CDATA[https://raw.githubusercontent.com/sorgumurat/sorguportal/main/dizi/13reason.xml]]></playlist_url>
 	</channel>
 <channel>
 		<title><![CDATA[Rizzoli & İsles]]></title>
 		<logo_30x30><![CDATA[http://img04.imgsinemalar.com/images/afis_dev/r/Rizzoli-isles-Sezon-1-1279927578.jpg]]></logo_30x30>
 		<description><![CDATA[<img src="http://img04.imgsinemalar.com/images/afis_dev/r/Rizzoli-isles-Sezon-1-1279927578.jpg">]]></description>
-		<playlist_url><![CDATA[https://cloudme.com/v1/ws2/:sorgumurat/:rizzolisles/rizzolisles.xml?dl=rizzolisles.xml]]></playlist_url>
+		<playlist_url><![CDATA[https://raw.githubusercontent.com/sorgumurat/sorguportal/main/dizi/rizzolisles.xml]]></playlist_url>
 	</channel>
 <channel>
 		<title><![CDATA[Arka Sıradakiler]]></title>
 		<logo_30x30><![CDATA[https://upload.wikimedia.org/wikipedia/tr/thumb/5/54/Arka_S%C4%B1radakiler_afi%C5%9Fi.jpg/220px-Arka_S%C4%B1radakiler_afi%C5%9Fi.jpg]]></logo_30x30>
 		<description><![CDATA[<img src="https://upload.wikimedia.org/wikipedia/tr/thumb/5/54/Arka_S%C4%B1radakiler_afi%C5%9Fi.jpg/220px-Arka_S%C4%B1radakiler_afi%C5%9Fi.jpg">]]></description>
-		<playlist_url><![CDATA[https://cloudme.com/v1/ws2/:sorgumurat/:arkasiradakiler/arkasiradakiler.xml?dl=arkasiradakiler.xml]]></playlist_url>
+		<playlist_url><![CDATA[https://raw.githubusercontent.com/sorgumurat/sorguportal/main/dizi/arkasiradakiler.xml]]></playlist_url>
 	</channel>
 <channel>
 		<title><![CDATA[BABYLON 5]]></title>
 		<logo_30x30><![CDATA[http://www.scifi-movies.com/images/contenu/data/0000248/affiche.jpg]]></logo_30x30>
 		<description><![CDATA[<img src="http://www.scifi-movies.com/images/contenu/data/0000248/affiche.jpg">]]></description>
-		<playlist_url><![CDATA[https://cloudme.com/v1/ws2/:sorgumurat/:babylon5/babylon5.xml?dl=babylon5.xml]]></playlist_url>
+		<playlist_url><![CDATA[https://raw.githubusercontent.com/sorgumurat/sorguportal/main/dizi/babylon5.xml]]></playlist_url>
 	</channel>
 <channel>
 		<title><![CDATA[Asi]]></title>
 		<logo_30x30><![CDATA[http://imgsrv2.pxdrive.com/pics/norm/246267.jpg]]></logo_30x30>
 		<description><![CDATA[<img src="http://imgsrv2.pxdrive.com/pics/norm/246267.jpg">]]></description>
-		<playlist_url><![CDATA[https://cloudme.com/v1/ws2/:sorgumurat/:asi/asi.xml?dl=asi.xml]]></playlist_url>
+		<playlist_url><![CDATA[https://raw.githubusercontent.com/sorgumurat/sorguportal/main/dizi/asi.xml]]></playlist_url>
 	</channel>
 <channel>
 		<title><![CDATA[Kanıt]]></title>
 		<logo_30x30><![CDATA[http://i.imgur.com/EAiQD.png]]></logo_30x30>
 		<description><![CDATA[<img src="http://i.imgur.com/EAiQD.png">]]></description>
-		<playlist_url><![CDATA[https://cloudme.com/v1/ws2/:sorgumurat/:kanıt/kanıt.xml?dl=kanıt.xml]]></playlist_url>
+		<playlist_url><![CDATA[https://raw.githubusercontent.com/sorgumurat/sorguportal/main/dizi/kanıt.xml]]></playlist_url>
 	</channel>
 <channel>
 		<title><![CDATA[Weeds ]]></title>
 		<logo_30x30><![CDATA[http://media.hollywood.com/images/714x1000/6179672.jpg]]></logo_30x30>
 		<description><![CDATA[<img src="http://media.hollywood.com/images/714x1000/6179672.jpg">]]></description>
-		<playlist_url><![CDATA[https://cloudme.com/v1/ws2/:sorgumurat/:weeds/weeds.xml?dl=weeds.xml]]></playlist_url>
+		<playlist_url><![CDATA[https://raw.githubusercontent.com/sorgumurat/sorguportal/main/dizi/weeds.xml]]></playlist_url>
 	</channel>
 <channel>
 		<title><![CDATA[Death Note Anime dizi]]></title>
 		<logo_30x30><![CDATA[http://galeri14.uludagsozluk.com/819/death-note_1110894.jpg]]></logo_30x30>				
 		<description><![CDATA[<img src="http://galeri14.uludagsozluk.com/819/death-note_1110894.jpg">]]></description>
-		<playlist_url><![CDATA[https://cloudme.com/v1/ws2/:sorgumurat/:deathnote/deathnote.xml?dl=deathnote.xml]]></playlist_url>
+		<playlist_url><![CDATA[https://raw.githubusercontent.com/sorgumurat/sorguportal/main/dizi/deathnote.xml]]></playlist_url>
 	</channel>
 <channel>
 		<title><![CDATA[the 4400]]></title>
 		<logo_30x30><![CDATA[https://dizipas.org/RmTheme/upload/series/poster/the-4400-103ef9d021aa13-b.jpg]]></logo_30x30>
 		<description><![CDATA[<img src="https://dizipas.org/RmTheme/upload/series/poster/the-4400-103ef9d021aa13-b.jpg" </img>]]></description>
-		<playlist_url><![CDATA[https://cloudme.com/v1/ws2/:sorgumurat/:the_4400/the_4400.xml?dl=the_4400.xml]]></playlist_url>
+		<playlist_url><![CDATA[https://raw.githubusercontent.com/sorgumurat/sorguportal/main/dizi/the_4400.xml]]></playlist_url>
 	</channel>
 <channel>
 		<title><![CDATA[Lost Room - Kayıp oda]]></title>
 		<logo_30x30><![CDATA[http://sinematime.com/wp-content/uploads/2014/10/lost-room.jpg]]></logo_30x30>
 		<description><![CDATA[<img src="http://sinematime.com/wp-content/uploads/2014/10/lost-room.jpg" </img>]]></description>
-		<playlist_url><![CDATA[https://cloudme.com/v1/ws2/:sorgumurat/:kayipoda/kayipoda.xml?dl=kayipoda.xml]]></playlist_url>
+		<playlist_url><![CDATA[https://raw.githubusercontent.com/sorgumurat/sorguportal/main/dizi/kayipoda.xml]]></playlist_url>
 	</channel>
 	<channel>
 		<title><![CDATA[Ezel]]></title>
 		<logo_30x30><![CDATA[http://gioggg.ge/uploads/posts/2014-07/1407507815_ezelseriescover.jpg]]></logo_30x30>
 		<description><![CDATA[<img src="http://gioggg.ge/uploads/posts/2014-07/1407507815_ezelseriescover.jpg" </img>]]></description>
-		<playlist_url><![CDATA[https://cloudme.com/v1/ws2/:sorgumurat/:ezel/ezel.xml?dl=ezel.xml]]></playlist_url>
+		<playlist_url><![CDATA[https://raw.githubusercontent.com/sorgumurat/sorguportal/main/dizi/ezel.xml]]></playlist_url>
 	</channel>
 	<channel>
 		<title><![CDATA[Kardeş Payı Sansürsüz ]]></title>
 		<logo_30x30><![CDATA[http://cdn1.startv.com.tr/Series/240x334/dc7d22bd-f9d2-4830-a70f-caa0189b0a21.jpg?v=42340,4259462616]]></logo_30x30>
 		<description><![CDATA[<img src="http://cdn1.startv.com.tr/Series/240x334/dc7d22bd-f9d2-4830-a70f-caa0189b0a21.jpg?v=42340,4259462616" </img>]]></description>
-		<playlist_url><![CDATA[https://cloudme.com/v1/ws2/:sorgumurat/:KARDES/KARDES.XML]]></playlist_url>
+		<playlist_url><![CDATA[hhttps://raw.githubusercontent.com/sorgumurat/sorguportal/main/dizi/KARDES.XML]]></playlist_url>
 	</channel>
 
 	<channel>
 		<title><![CDATA[Yabancı Damat ]]></title>
 		<logo_30x30><![CDATA[https://s-media-cache-ak0.pinimg.com/564x/b5/ae/b3/b5aeb31b32d1792be394beb05e2402d5.jpg]]></logo_30x30>
 		<description><![CDATA[<img src="https://s-media-cache-ak0.pinimg.com/564x/b5/ae/b3/b5aeb31b32d1792be394beb05e2402d5.jpg" </img>]]></description>
-		<playlist_url><![CDATA[https://cloudme.com/v1/ws2/:sorgumurat/:yabancidamat1/yabancidamat1.xml?dl=yabancidamat1.xml]]></playlist_url>
+		<playlist_url><![CDATA[https://raw.githubusercontent.com/sorgumurat/sorguportal/main/dizi/yabancidamat1.xml]]></playlist_url>
 	</channel>
 		<channel>
 		<title><![CDATA[Yabancı Damat alternatif]]></title>
 		<logo_30x30><![CDATA[https://s-media-cache-ak0.pinimg.com/564x/b5/ae/b3/b5aeb31b32d1792be394beb05e2402d5.jpg]]></logo_30x30>
 		<description><![CDATA[<img src="https://s-media-cache-ak0.pinimg.com/564x/b5/ae/b3/b5aeb31b32d1792be394beb05e2402d5.jpg" </img>]]></description>
-		<playlist_url><![CDATA[https://cloudme.com/v1/ws2/:sorgumurat/:yabancidamat/yabancidamat.xml?dl=yabancidamat.xml]]></playlist_url>
+		<playlist_url><![CDATA[https://raw.githubusercontent.com/sorgumurat/sorguportal/main/dizi/yabancidamat.xml]]></playlist_url>
 	</channel>
 		<channel>
 		<title><![CDATA[Kopru]]></title>
 		<logo_30x30><![CDATA[http://tr.web.img2.acsta.net/r_640_600/b_1_d6d6d6/medias/nmedia/18/86/42/97/19840553.jpg]]></logo_30x30>
 		<description><![CDATA[<img src="http://tr.web.img2.acsta.net/r_640_600/b_1_d6d6d6/medias/nmedia/18/86/42/97/19840553.jpg" </img>]]></description>
-		<playlist_url><![CDATA[https://cloudme.com/v1/ws2/:sorgumurat/:kopru/kopru.xml?dl=kopru.xml]]></playlist_url>
+		<playlist_url><![CDATA[https://raw.githubusercontent.com/sorgumurat/sorguportal/main/dizi/kopru.xml]]></playlist_url>
 	</channel>
 </items>
