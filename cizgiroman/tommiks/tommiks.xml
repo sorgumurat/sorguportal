@@ -5,6 +5,6 @@
 		<title><![CDATA[Esirler ]]></title>
 		<logo_30x30><![CDATA[https://store.donanimhaber.com/7f/31/ca/7f31ca51861b4be8d10fd619606dc58a.jpg]]></logo_30x30>
 		<description><![CDATA[<img src="https://store.donanimhaber.com/7f/31/ca/7f31ca51861b4be8d10fd619606dc58a.jpg" </img> ]]></description>
-		<playlist_url><![CDATA[https://dl.dropboxusercontent.com/s/o7wdkx79324787q/esirler.xml]]></playlist_url>
+		<playlist_url><![CDATA[https://raw.githubusercontent.com/sorgumurat/sorguportal/main/cizgiroman/tommiks/esirler.xml]]></playlist_url>
 	</channel>
 </items>
