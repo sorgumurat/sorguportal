@@ -6,67 +6,67 @@
     <title><![CDATA[Acuna Bedel Oğul ]]></title>
     <logo_30x30><![CDATA[https://farm8.staticflickr.com/7618/16619689419_d02ba3ae25_b.jpg]]></logo_30x30>
     <description><![CDATA[<img src=''/><img src='https://farm8.staticflickr.com/7618/16619689419_d02ba3ae25_b.jpg'/]]></description>
-    <playlist_url><![CDATA[https://my.cloudme.com/v1/ws2/:sorgumurat/:acunabedel/acunabedel.xml?dl=acunabedel.xml]]></playlist_url>
+    <playlist_url><![CDATA[https://raw.githubusercontent.com/sorgumurat/sorguportal/main/cizgiroman/karaoglan/acunabedel.xml]]></playlist_url>
   </channel>
   <channel>
     <title><![CDATA[Delice'nin Dört Kızı ]]></title>
     <logo_30x30><![CDATA[https://i.hizliresim.com/goZZvN.jpg]]></logo_30x30>
     <description><![CDATA[<img src=''/><img src='https://i.hizliresim.com/goZZvN.jpg'/]]></description>
-    <playlist_url><![CDATA[https://my.cloudme.com/v1/ws2/:sorgumurat/:delicedortkizi/delicedortkizi.xml?dl=delicedortkizi.xml]]></playlist_url>
+    <playlist_url><![CDATA[https://raw.githubusercontent.com/sorgumurat/sorguportal/main/cizgiroman/karaoglan/delicedortkizi.xml]]></playlist_url>
   </channel>
   <channel>
     <title><![CDATA[Demir Maske]]></title>
     <logo_30x30><![CDATA[https://farm8.staticflickr.com/7649/16561381873_3588821f0d_b.jpg]]></logo_30x30>
     <description><![CDATA[<img src=''/><img src=https://farm8.staticflickr.com/7649/16561381873_3588821f0d_b.jpg]]></description>
-    <playlist_url><![CDATA[https://my.cloudme.com/v1/ws2/:sorgumurat/:demirmaske/demirmaske.xml?dl=demirmaske.xml]]></playlist_url>
+    <playlist_url><![CDATA[https://raw.githubusercontent.com/sorgumurat/sorguportal/main/cizgiroman/karaoglan/demirmaske.xml]]></playlist_url>
   </channel>
   <channel>
     <title><![CDATA[Dünyalar Hakimi]]></title>
     <logo_30x30><![CDATA[https://c1.staticflickr.com/1/600/22828421643_e4c078b31d_b.jpg]]></logo_30x30>
     <description><![CDATA[<img src=''/><img src=https://c1.staticflickr.com/1/600/22828421643_e4c078b31d_b.jpg]]></description>
-    <playlist_url><![CDATA[https://my.cloudme.com/v1/ws2/:sorgumurat/:dunyalarhakimi/dunyalarhakimi.xml?dl=dunyalarhakimi.xml]]></playlist_url>
+    <playlist_url><![CDATA[https://raw.githubusercontent.com/sorgumurat/sorguportal/main/cizgiroman/karaoglan/dunyalarhakimi.xml]]></playlist_url>
   </channel>
   <channel>
     <title><![CDATA[Karanlıklar Hakimi 1. bölüm]]></title>
     <logo_30x30><![CDATA[https://c2.staticflickr.com/2/1448/23969087019_9a1c57d777_b.jpg]]></logo_30x30>
     <description><![CDATA[<img src=''/><img src=https://c2.staticflickr.com/2/1448/23969087019_9a1c57d777_b.jpg]]></description>
-    <playlist_url><![CDATA[https://my.cloudme.com/v1/ws2/:sorgumurat/:karanliklahakimi/karanliklahakimi.xml?dl=karanliklahakimi.xml]]></playlist_url>
+    <playlist_url><![CDATA[https://raw.githubusercontent.com/sorgumurat/sorguportal/main/cizgiroman/karaoglan/karanliklahakimi.xml]]></playlist_url>
   </channel>
   <channel>
     <title><![CDATA[Karanlıklar Hakimi 2. bölüm]]></title>
     <logo_30x30><![CDATA[https://c2.staticflickr.com/2/1448/23969087019_9a1c57d777_b.jpg]]></logo_30x30>
     <description><![CDATA[<img src=''/><img src=https://c2.staticflickr.com/2/1448/23969087019_9a1c57d777_b.jpg]]></description>
-    <playlist_url><![CDATA[https://my.cloudme.com/v1/ws2/:sorgumurat/:karanliklahakimi1/karanliklahakimi1.xml?dl=karanliklahakimi1.xml]]></playlist_url>
+    <playlist_url><![CDATA[https://raw.githubusercontent.com/sorgumurat/sorguportal/main/cizgiroman/karaoglan/karanliklahakimi1.xml]]></playlist_url>
   </channel>
   <channel>
     <title><![CDATA[Kayıp Ülke]]></title>
     <logo_30x30><![CDATA[http://img.webme.com/pic/b/buyuluruzgar/kk1.jpg]]></logo_30x30>
     <description><![CDATA[<img src='http://img.webme.com/pic/b/buyuluruzgar/kk1.jpg'/><img src=http://img.webme.com/pic/b/buyuluruzgar/kk1.jpg]]></description>
-    <playlist_url><![CDATA[https://my.cloudme.com/v1/ws2/:sorgumurat/:kayipulke/kayipulke.xml?dl=kayipulke.xml]]></playlist_url>
+    <playlist_url><![CDATA[https://raw.githubusercontent.com/sorgumurat/sorguportal/main/cizgiroman/karaoglan/kayipulke.xml]]></playlist_url>
   </channel>
   <channel>
     <title><![CDATA[Mor Kahküllü Şehzade]]></title>
     <logo_30x30><![CDATA[https://c2.staticflickr.com/2/1607/25460542074_2b4f27c031_b.jpg]]></logo_30x30>
     <description><![CDATA[<img src=''/><img src=https://c2.staticflickr.com/2/1607/25460542074_2b4f27c031_b.jpg]]></description>
-    <playlist_url><![CDATA[https://my.cloudme.com/v1/ws2/:sorgumurat/:morkahkul1/morkahkul1.xml?dl=morkahkul1.xml]]></playlist_url>
+    <playlist_url><![CDATA[https://raw.githubusercontent.com/sorgumurat/sorguportal/main/cizgiroman/karaoglan/morkahkul1.xml]]></playlist_url>
   </channel>
   <channel>
     <title><![CDATA[Yeşil Ejder 1. bölüm]]></title>
     <logo_30x30><![CDATA[https://c1.staticflickr.com/1/597/22482343532_d1b71cf164_h.jpg]]></logo_30x30>
     <description><![CDATA[<img src=''/><img src=https://c1.staticflickr.com/1/597/22482343532_d1b71cf164_h.jpg]]></description>
-    <playlist_url><![CDATA[https://my.cloudme.com/v1/ws2/:sorgumurat/:yesilejder/yesilejder.xml?dl=yesilejder.xml]]></playlist_url>
+    <playlist_url><![CDATA[https://raw.githubusercontent.com/sorgumurat/sorguportal/main/cizgiroman/karaoglan/yesilejder.xml]]></playlist_url>
   </channel>
   <channel>
     <title><![CDATA[Yeşil Ejder 2. bölüm]]></title>
     <logo_30x30><![CDATA[https://c1.staticflickr.com/1/597/22482343532_d1b71cf164_h.jpg]]></logo_30x30>
     <description><![CDATA[<img src=''/><img src='https://c1.staticflickr.com/1/597/22482343532_d1b71cf164_h.jpg'/]]></description>
-    <playlist_url><![CDATA[https://my.cloudme.com/v1/ws2/:sorgumurat/:yesilejder1/yesilejder1.xml?dl=yesilejder1.xml]]></playlist_url>
+    <playlist_url><![CDATA[https://raw.githubusercontent.com/sorgumurat/sorguportal/main/cizgiroman/karaoglan/yesilejder1.xml]]></playlist_url>
   </channel>
   <channel>
     <title><![CDATA[Yeşil Ejder 3. bölüm]]></title>
     <logo_30x30><![CDATA[https://c1.staticflickr.com/1/597/22482343532_d1b71cf164_h.jpg]]></logo_30x30>
     <description><![CDATA[<img src=''/><img src=https://c1.staticflickr.com/1/597/22482343532_d1b71cf164_h.jpg]]></description>
-    <playlist_url><![CDATA[https://my.cloudme.com/v1/ws2/:sorgumurat/:yesilejder2/yesilejder2.xml?dl=yesilejder2.xml]]></playlist_url>
+    <playlist_url><![CDATA[https://raw.githubusercontent.com/sorgumurat/sorguportal/main/cizgiroman/karaoglan/yesilejder2.xml]]></playlist_url>
   </channel>
   <next_page_url text=""><![CDATA[]]></next_page_url>
   <prev_page_url text=""><![CDATA[]]></prev_page_url>
