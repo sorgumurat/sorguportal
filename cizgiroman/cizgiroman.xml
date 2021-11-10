@@ -11,25 +11,25 @@
 		<title><![CDATA[Tommiks ]]></title>
 		<logo_30x30><![CDATA[https://store.donanimhaber.com/7f/31/ca/7f31ca51861b4be8d10fd619606dc58a.jpg]]></logo_30x30>
 		<description><![CDATA[<img src="https://store.donanimhaber.com/7f/31/ca/7f31ca51861b4be8d10fd619606dc58a.jpg" </img> ]]></description>
-		<playlist_url><![CDATA[https://my.cloudme.com/v1/ws2/:sorgumurat/:tommiks/tommiks.xml?dl=tommiks.xml]]></playlist_url>
+		<playlist_url><![CDATA[https://raw.githubusercontent.com/sorgumurat/sorguportal/main/cizgiroman/tommiks/tommiks.xml]]></playlist_url>
 	</channel>
 	<channel>
 		<title><![CDATA[Kaptan Swing ]]></title>
 		<logo_30x30><![CDATA[http://www.buyulucizgiler.com/images/urunler/308336-119718308134054-944627329-n-232.jpg]]></logo_30x30>
 		<description><![CDATA[<img src="http://www.buyulucizgiler.com/images/urunler/308336-119718308134054-944627329-n-232.jpg" </img> ]]></description>
-		<playlist_url><![CDATA[https://my.cloudme.com/v1/ws2/:sorgumurat/:swing/swing.xml?dl=swing.xml]]></playlist_url>
+		<playlist_url><![CDATA[https://raw.githubusercontent.com/sorgumurat/sorguportal/main/cizgiroman/swing/swing.xml]]></playlist_url>
 	</channel>
 <channel>
 		<title><![CDATA[Karaoğlan ]]></title>
 		<logo_30x30><![CDATA[http://i.idefix.com/cache/500x400-0/originals/0000000181314-1.jpg]]></logo_30x30>
 		<description><![CDATA[<img src="http://i.idefix.com/cache/500x400-0/originals/0000000181314-1.jpg" </img> ]]></description>
-		<playlist_url><![CDATA[https://my.cloudme.com/v1/ws2/:sorgumurat/:karaoglanmenu/karaoglanmenu.xml?dl=karaoglanmenu.xml]]></playlist_url>
+		<playlist_url><![CDATA[https://raw.githubusercontent.com/sorgumurat/sorguportal/main/cizgiroman/karaoglan/karaoglanmenu.xml]]></playlist_url>
 	</channel>
 <channel>
 		<title><![CDATA[Fatoş - Basri]]></title>
 		<logo_30x30><![CDATA[https://c2.staticflickr.com/8/7154/26951454965_69cefd59d6_b.jpg]]></logo_30x30>
 		<description><![CDATA[<img src="https://c2.staticflickr.com/8/7154/26951454965_69cefd59d6_b.jpg" </img> ]]></description>
-		<playlist_url><![CDATA[https://my.cloudme.com/v1/ws2/:sorgumurat/:fatosbasri/fatosbasri.xml?dl=fatosbasri.xml]]></playlist_url>
+		<playlist_url><![CDATA[https://raw.githubusercontent.com/sorgumurat/sorguportal/main/cizgiroman/fatosbasri.xml]]></playlist_url>
 	</channel>
 
 
