@@ -15,6 +15,12 @@
 		<description><![CDATA[<img src="https://static.tranimeizle.net/animes/2555/large.jpeg" </img>]]></description>
 		<playlist_url><![CDATA[https://raw.githubusercontent.com/sorgumurat/sorguportal/main/anime/Ahiruno.xml]]></playlist_url>
 	</channel>
+<channel>
+		<title><![CDATA[Majin Tantei Nougami Neuro]]></title>
+		<logo_30x30><![CDATA[https://static.tranimeizle.net/animes/3208/large.jpeg]]></logo_30x30>
+		<description><![CDATA[<img src="https://static.tranimeizle.net/animes/3208/large.jpeg" </img>]]></description>
+		<playlist_url><![CDATA[https://raw.githubusercontent.com/sorgumurat/sorguportal/main/anime/Majin Tantei Nougami Neuro.xml]]></playlist_url>
+	</channel>
 
-	Ahiruno
+
 </items>
