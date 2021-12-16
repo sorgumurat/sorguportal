@@ -21,6 +21,12 @@
 		<description><![CDATA[<img src="https://static.tranimeizle.net/animes/3208/large.jpeg" </img>]]></description>
 		<playlist_url><![CDATA[https://raw.githubusercontent.com/sorgumurat/sorguportal/main/anime/Majin Tantei Nougami Neuro.xml]]></playlist_url>
 	</channel>
+<channel>
+		<title><![CDATA[Afro Samurai]]></title>
+		<logo_30x30><![CDATA[https://static.tranimeizle.net/animes/2721/large.jpeg]]></logo_30x30>
+		<description><![CDATA[<img src="https://static.tranimeizle.net/animes/2721/large.jpeg" </img>]]></description>
+		<playlist_url><![CDATA[https://raw.githubusercontent.com/sorgumurat/sorguportal/main/anime/afro samurai.xml]]></playlist_url>
+	</channel>
 
 
 </items>
