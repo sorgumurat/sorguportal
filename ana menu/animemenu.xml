@@ -33,6 +33,14 @@
 		<description><![CDATA[<img src="https://static.tranimeizle.net/animes/332/large.jpeg" </img>]]></description>
 		<playlist_url><![CDATA[https://raw.githubusercontent.com/sorgumurat/sorguportal/main/anime/GingaeKickoff.xml]]></playlist_url>
 	</channel>
+<channel>
+		<title><![CDATA[Bakemono no Ko]]></title>
+		<logo_30x30><![CDATA[https://static.tranimeizle.net/animes/1108/large.jpeg]]></logo_30x30>
+		<description><![CDATA[<img src="https://static.tranimeizle.net/animes/1108/large.jpeg" </img>]]></description>
+		<playlist_url><![CDATA[https://raw.githubusercontent.com/sorgumurat/sorguportal/main/anime/Bakemono no Ko.xml]]></playlist_url>
+	</channel>
+
+
 
 
 </items>
