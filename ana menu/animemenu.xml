@@ -47,6 +47,11 @@
 		<playlist_url><![CDATA[https://raw.githubusercontent.com/sorgumurat/sorguportal/main/anime/black cover.xml]]></playlist_url>
 	</channel>
 
-
+<channel>
+		<title><![CDATA[Ghost]]></title>
+		<logo_30x30><![CDATA[https://static.tranimeizle.net/animes/397/large.jpeg]]></logo_30x30>
+		<description><![CDATA[<img src="https://static.tranimeizle.net/animes/397/large.jpeg" </img>]]></description>
+		<playlist_url><![CDATA[https://raw.githubusercontent.com/sorgumurat/sorguportal/main/anime/ghost.xml]]></playlist_url>
+	</channel>
 
 </items>
