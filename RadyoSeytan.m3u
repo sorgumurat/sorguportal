@@ -1,1060 +1,1057 @@
 #EXTM3U
-EXTINF:-1,1001 FM
+#EXTINF:-1,1001 FM
 http://www.dostmedya.com/ply/1001fm.pls
-EXTINF:-1,.977 The 80s Channel
+#EXTINF:-1,.977 The 80s Channel
 http://www.977music.com/tunein/web/80s3.asx
-EXTINF:-1,.977 The 90s Channel
+#EXTINF:-1,.977 The 90s Channel
 http://www.977music.com/tunein/web/90s3.asx
-EXTINF:-1,.977 The Country Channel
+#EXTINF:-1,.977 The Country Channel
 http://www.977music.com/tunein/web/country3.asx
-EXTINF:-1,.977 The Hitz Channel
+#EXTINF:-1,.977 The Hitz Channel
 http://www.977music.com/tunein/web/hitz3.asx
-EXTINF:-1,1 Live (Eins Live)
+#EXTINF:-1,1 Live (Eins Live)
 http://metafiles.gl-systemhaus.de/wdr/channel_einslive.m3u
-EXTINF:-1,Abuzer FM
+#EXTINF:-1,Abuzer FM
 http://live.radyotvonline.com:9030/listen.pls
-EXTINF:-1,Açık Radyo
+#EXTINF:-1,Açık Radyo
 http://www.yayinonline.com/asx/radyoasx.asp?rd=acikradyo
-EXTINF:-1,AÇS Radyo
+#EXTINF:-1,AÇS Radyo
 http://yayin.netradyom.com:11150/listen.pls
-EXTINF:-1,Adana FM
+#EXTINF:-1,Adana FM
 http://yayin1.yayindakiler.com:3182/
-EXTINF:-1,Afşin FM
+#EXTINF:-1,Afşin FM
 http://sunucu2.radyolarburada.com:7546/listen.pls
-EXTINF:-1,Afyon Mavi Radyo
+#EXTINF:-1,Afyon Mavi Radyo
 http://www.trd.com.tr/connect/trd3.m3u
-EXTINF:-1,Ak Mega Radyo
+#EXTINF:-1,Ak Mega Radyo
 http://yayin1.canliyayin.org:7078/listen.pls
-EXTINF:-1,Akdeniz FM
+#EXTINF:-1,Akdeniz FM
 mms://ns9.adabilisim.net/radyoakdeniz
-EXTINF:-1,Akdeniz Radyo Hatay
+#EXTINF:-1,Akdeniz Radyo Hatay
 http://sunucu1.radyolarburada.com:7077
-EXTINF:-1,Akra FM
+#EXTINF:-1,Akra FM
 http://canli.akradyo.net:7895/listen.pls
-EXTINF:-1,Aksaray FM
+#EXTINF:-1,Aksaray FM
 http://yayin2.yayindakiler.com:4102/listen.pls
-EXTINF:-1,Aktif Radyo
+#EXTINF:-1,Aktif Radyo
 http://sunucu1.radyolarburada.com:5588/listen.pls
-EXTINF:-1,Alanya Radyo Time
+#EXTINF:-1,Alanya Radyo Time
 http://alanyaradyotime.com/listen/playlist.asx
-EXTINF:-1,Alem FM
+#EXTINF:-1,Alem FM
 http://94.75.221.198:8005/
-EXTINF:-1,Alemiz FM
+#EXTINF:-1,Alemiz FM
 http://www.alemizfm.com/ALEMIZFM.m3u
-EXTINF:-1,Aliağa Radyo Sahil
+#EXTINF:-1,Aliağa Radyo Sahil
 mms://www.radyosahil.com.tr/radyosahil
-EXTINF:-1,Alternatif Radyo
+#EXTINF:-1,Alternatif Radyo
 http://yayin.turkhosted.com:915/listen.pls
-EXTINF:-1,Anadolu FM Kırıkkale
+#EXTINF:-1,Anadolu FM Kırıkkale
 http://80.239.141.175:7171
-EXTINF:-1,Anadolu Radyo
+#EXTINF:-1,Anadolu Radyo
 http://yayin3.canlitv.com:8050/listen.pls
-EXTINF:-1,Anadolunun Sesi
+#EXTINF:-1,Anadolunun Sesi
 http://www.yayinonline.com/asx/radyoasx.asp?rd=anadolununsesi
-EXTINF:-1,Ankara Polis Radyosu
+#EXTINF:-1,Ankara Polis Radyosu
 mms://212.175.37.110/pr3
-EXTINF:-1,Antalya FM
+#EXTINF:-1,Antalya FM
 http://94.102.6.154:9000
-EXTINF:-1,Antu Radyo
+#EXTINF:-1,Antu Radyo
 http://www.antu.com:8001/listen.pls
-EXTINF:-1,Arabesk FM
+#EXTINF:-1,Arabesk FM
 http://yayin.damarfm.com:8000
-EXTINF:-1,Arifan Radyo
+#EXTINF:-1,Arifan Radyo
 http://radyo.normworks.com:8010/listen.pls
-EXTINF:-1,Armoni FM
+#EXTINF:-1,Armoni FM
 http://yayin1.yayindakiler.com:3112/listen.pls
-EXTINF:-1,Arnavutköy Can FM
+#EXTINF:-1,Arnavutköy Can FM
 http://46.20.5.92:2220
-EXTINF:-1,Art FM
+#EXTINF:-1,Art FM
 mms://yayin3.canliyayin.org/artfm
-EXTINF:-1,Art FM Antalya
+#EXTINF:-1,Art FM Antalya
 mms://77.245.145.114/art fm
-EXTINF:-1,Asya Radyo
+#EXTINF:-1,Asya Radyo
 http://217.20.112.150:9850/listen.pls
-EXTINF:-1,Aşk FM
+#EXTINF:-1,Aşk FM
 http://yayin.asymedya.com:8020/listen.pls
-EXTINF:-1,Aşk FM Türkiye
+#EXTINF:-1,Aşk FM Türkiye
 http://askfm.radyolarburada.com:8060/listen.pls
-EXTINF:-1,Avrasya Türk
+#EXTINF:-1,Avrasya Türk
 http://radyoavrasya.radyolarburada.com:1071
-EXTINF:-1,Barış FM
+#EXTINF:-1,Barış FM
 http://80.84.58.147:1300/listen.pls
-EXTINF:-1,Batı Radyo
+#EXTINF:-1,Batı Radyo
 http://46.20.4.4:8050/
-EXTINF:-1,Bayburt Çağrı FM
+#EXTINF:-1,Bayburt Çağrı FM
 http://217.20.122.130:6931/listen.pls
-EXTINF:-1,Bayrak FM
+#EXTINF:-1,Bayrak FM
 mms://bms.brtk.net/bayrakfm
-EXTINF:-1,Best FM
+#EXTINF:-1,Best FM
 http://46.20.7.125/listen.pls
-EXTINF:-1,Best Radyo
+#EXTINF:-1,Best Radyo
 http://canli.bestradyo.org:8004
-EXTINF:-1,Bey FM
+#EXTINF:-1,Bey FM
 http://mirasis.acteknik.com:11032/listen.pls
-EXTINF:-1,Beyaz Torrent
+#EXTINF:-1,Beyaz Torrent
 http://88.190.18.146:2902/
-EXTINF:-1,Birce FM
+#EXTINF:-1,Birce FM
 http://62.212.84.42:7044
-EXTINF:-1,Bizim FM
+#EXTINF:-1,Bizim FM
 http://radyo.bizimdiyar.com:8000/listen.pls
-EXTINF:-1,Bizim Radyo
+#EXTINF:-1,Bizim Radyo
 http://80.241.216.75:7041/listen.pls
-EXTINF:-1,Blue Galaxy
+#EXTINF:-1,Blue Galaxy
 http://streamplus8.leonex.de:29728/
-EXTINF:-1,Bodrum FM
+#EXTINF:-1,Bodrum FM
 http://88.255.140.50:88/broadwave.m3u
-EXTINF:-1,Bor FM
+#EXTINF:-1,Bor FM
 http://yayin1.canliyayin.org:8898/
-EXTINF:-1,Burç FM
+#EXTINF:-1,Burç FM
 http://88.255.168.70:8000/listen.pls
-EXTINF:-1,Bursa FM
+#EXTINF:-1,Bursa FM
 http://yayin6.yayindayiz.biz:8340/
-EXTINF:-1,Bursa Karadeniz FM
+#EXTINF:-1,Bursa Karadeniz FM
 http://www.yayinonline.com/asx/radyoasx.asp?rd=karadenizfmb
-EXTINF:-1,Capital Radio
+#EXTINF:-1,Capital Radio
 http://shoutcastdogus.cdnturk.com/listen.pls?sid=2
-EXTINF:-1,Cemre FM
+#EXTINF:-1,Cemre FM
 http://yayin2.canliyayin.org:8024/listen.pls
-EXTINF:-1,Çağrı FM
+#EXTINF:-1,Çağrı FM
 http://yayin1.canliyayin.org:8202/listen.pls
-EXTINF:-1,Çan FM
+#EXTINF:-1,Çan FM
 http://sunucu.radyodinle.com:8760/
-EXTINF:-1,Çilek FM
+#EXTINF:-1,Çilek FM
 http://radiocilekfm.com:9393/
-EXTINF:-1,Çorlu FM
+#EXTINF:-1,Çorlu FM
 mms://95.211.98.4/rd-corlufm
-EXTINF:-1,Damar FM
+#EXTINF:-1,Damar FM
 http://yayin.damarfm.com:8080/listen.pls
-EXTINF:-1,Damar FM İstanbul
+#EXTINF:-1,Damar FM İstanbul
 http://yayin.damarfm.com:8080/listen.pls
-EXTINF:-1,Dance FM
+#EXTINF:-1,Dance FM
 http://www.dancefm.com.tr:8050/
-EXTINF:-1,Dede FM
+#EXTINF:-1,Dede FM
 http://82.192.78.144:9998/listen.pls
-EXTINF:-1,Delidolu FM
+#EXTINF:-1,Delidolu FM
 http://85.214.233.4:9998/;stream.nsv
-EXTINF:-1,Delta FM
+#EXTINF:-1,Delta FM
 http://www.deltafm.com.tr/saramedya.m3u
-EXTINF:-1,Dem Radyo
+#EXTINF:-1,Dem Radyo
 http://live.radyotvonline.com:9400/listen.pls
-EXTINF:-1,Demokrat Radyo
+#EXTINF:-1,Demokrat Radyo
 http://canliyayin.demokratradyo.com:9080/listen.pls
-EXTINF:-1,Dert FM
+#EXTINF:-1,Dert FM
 http://live5.radyotvonline.com:6767/listen.pls
-EXTINF:-1,Derya FM
+#EXTINF:-1,Derya FM
 http://46.165.233.174:3044/
-EXTINF:-1,Dinamo FM
+#EXTINF:-1,Dinamo FM
 http://www.dinamo.fm/dinamo.pls
-EXTINF:-1,Dini Radyo
+#EXTINF:-1,Dini Radyo
 http://www.diniradyo.com/yayin.asx
-EXTINF:-1,Doğan FM
+#EXTINF:-1,Doğan FM
 http://217.20.112.150:1455/listen.pls
-EXTINF:-1,Doğu Karadeniz FM
+#EXTINF:-1,Doğu Karadeniz FM
 mms://95.211.98.4/rd-karadenizfmb
-EXTINF:-1,Doğu Radyo
+#EXTINF:-1,Doğu Radyo
 http://www.radyodinle.com/pls/261.pls
-EXTINF:-1,Dolunay FM
+#EXTINF:-1,Dolunay FM
 http://yayin1.canliyayin.org:8318/listen.pls
-EXTINF:-1,Dost FM
+#EXTINF:-1,Dost FM
 http://www.dosttv.com:8000/listen.pls
-EXTINF:-1,Dost FM Amasya
+#EXTINF:-1,Dost FM Amasya
 http://euro3.bizidinle.com/yayin-bd-dostfmamasya
-EXTINF:-1,Dost FM Bursa
+#EXTINF:-1,Dost FM Bursa
 http://dostfm.radyoyayini.com:8800/listen.pls
-EXTINF:-1,Dost FM Hatay
+#EXTINF:-1,Dost FM Hatay
 http://sunucu2.radyolarburada.com:5151/
-EXTINF:-1,Dost FM Malatya
+#EXTINF:-1,Dost FM Malatya
 http://yayin.kaliteweb.com.tr:5400/
-EXTINF:-1,Dostlar FM
+#EXTINF:-1,Dostlar FM
 http://mirasis.acteknik.com:11042/listen.pls
-EXTINF:-1,Dünya Radyo
+#EXTINF:-1,Dünya Radyo
 http://88.255.168.86:8000/listen.pls
-EXTINF:-1,Düziçi FM
+#EXTINF:-1,Düziçi FM
 http://duzicifm.com/radyo.m3u
-EXTINF:-1,Efe FM
+#EXTINF:-1,Efe FM
 http://188.124.15.199:9550/listen.pls
-EXTINF:-1,Egevizyon
+#EXTINF:-1,Egevizyon
 http://mirasis.acteknik.com:11106/listen.pls
-EXTINF:-1,Eko FM
+#EXTINF:-1,Eko FM
 mms://mediasrv.eko.fm/eko
-EXTINF:-1,Electro Radyo
+#EXTINF:-1,Electro Radyo
 http://stream.electroradio.ch:26630
-EXTINF:-1,Erzincan FM
+#EXTINF:-1,Erzincan FM
 http://erzincanfm.canliyayinda.com:2424/
-EXTINF:-1,Eskişehir Polis Radyosu
+#EXTINF:-1,Eskişehir Polis Radyosu
 http://sunucu1.radyolarburada.com:7272/
-EXTINF:-1,Eylül FM
+#EXTINF:-1,Eylül FM
 http://radyo.eylulfm.com:6835/
-EXTINF:-1,Ezgi Radyo
+#EXTINF:-1,Ezgi Radyo
 http://217.20.112.150:1782/
-EXTINF:-1,Ezgiler FM
+#EXTINF:-1,Ezgiler FM
 http://94.75.222.231:5478/listen.pls
-EXTINF:-1,FG 93.7
+#EXTINF:-1,FG 93.7
 http://37.1.144.106:9001/;stream/1/
-EXTINF:-1,FG Dj Radio
+#EXTINF:-1,FG Dj Radio
 http://fg.impek.tv:80/
-EXTINF:-1,Flamingo FM
+#EXTINF:-1,Flamingo FM
 http://canliradyoyayini.com:8654/
-EXTINF:-1,FM 23
+#EXTINF:-1,FM 23
 http://fm23.radyoyayini.com:6020/
-EXTINF:-1,French Kiss FM
+#EXTINF:-1,French Kiss FM
 http://stream.frenchkissfm.com:80/
-EXTINF:-1,Fresh 102.7
+#EXTINF:-1,Fresh 102.7
 http://208.80.54.61:80/KFRHFMCMP3
-EXTINF:-1,Galatasaray FM
+#EXTINF:-1,Galatasaray FM
 http://live.radyotvonline.com:9010/listen.pls
-EXTINF:-1,Gebze FM
+#EXTINF:-1,Gebze FM
 http://185.12.108.74:9998/listen.pls
-EXTINF:-1,Gebze Radyosu
+#EXTINF:-1,Gebze Radyosu
 http://94.23.248.192:7199/
-EXTINF:-1,Genç Akdeniz
+#EXTINF:-1,Genç Akdeniz
 http://akdenizfm.radyolarburada.com:9988/listen.pls
-EXTINF:-1,Genç FM
+#EXTINF:-1,Genç FM
 http://yayin2.yayindakiler.com:4092/
-EXTINF:-1,Genç FM (Faklı)
+#EXTINF:-1,Genç FM (Faklı)
 http://gencfm.radyoyayini.com:4242/listen.pls
-EXTINF:-1,Genç Radyo
+#EXTINF:-1,Genç Radyo
 http://yayin1.yayindakiler.com:3146
-EXTINF:-1,Girdap FM
+#EXTINF:-1,Girdap FM
 http://80.239.141.175:9974/
-EXTINF:-1,Giresun FM
+#EXTINF:-1,Giresun FM
 http://217.20.122.130:2828/
-EXTINF:-1,Gökkuşağı Radyo
+#EXTINF:-1,Gökkuşağı Radyo
 http://212.7.200.213:6004/listen.pls
-EXTINF:-1,Gökkuşağı Radyo Tokat
+#EXTINF:-1,Gökkuşağı Radyo Tokat
 http://212.7.200.213:6004/listen.pls
-EXTINF:-1,Gözde FM
+#EXTINF:-1,Gözde FM
 http://67.159.29.102:9060
-EXTINF:-1,Gözyaşı FM
+#EXTINF:-1,Gözyaşı FM
 http://www.gozyasigeceleri.com/itunes.pls
-EXTINF:-1,Gurbetçi FM
+#EXTINF:-1,Gurbetçi FM
 http://live2.radyotvonline.com:8750/
-EXTINF:-1,Gül FM
+#EXTINF:-1,Gül FM
 http://yayin.kusto.com/NETFM.asx
-EXTINF:-1,Gül Radyo
+#EXTINF:-1,Gül Radyo
 http://www.yayinonline.com/asx/radyoasx.asp?rd=radyogul
-EXTINF:-1,Gün FM
+#EXTINF:-1,Gün FM
 mms://ns9.adabilisim.net/guntv
-EXTINF:-1,Güney Radyo
+#EXTINF:-1,Güney Radyo
 http://yayin3.canliyayin.org/guneyradyo
-EXTINF:-1,Hamsi FM
+#EXTINF:-1,Hamsi FM
 http://www.hamsi.fm/online/Hamsi_Fm.pls
-EXTINF:-1,Harby FM
+#EXTINF:-1,Harby FM
 http://95.154.241.194:7080
-EXTINF:-1,Hayatın Sesi
+#EXTINF:-1,Hayatın Sesi
 http://gecelife.biz:8330/listen.pls
-EXTINF:-1,Hedef Radyo
+#EXTINF:-1,Hedef Radyo
 mms://yayin3.canliyayin.org/hedefradyo
-EXTINF:-1,Hit FM
+#EXTINF:-1,Hit FM
 http://84.16.230.129:2038/
-EXTINF:-1,Hot 108 Jamz
+#EXTINF:-1,Hot 108 Jamz
 http://www.hot108.com/hot108.pls
-EXTINF:-1,Hot 97.5
+#EXTINF:-1,Hot 97.5
 http://madison.wm-live.abacast.com/kempbroadcasting-kveg-64
-EXTINF:-1,Hür FM
+#EXTINF:-1,Hür FM
 http://sunucu2.radyolarburada.com:8165/listen.pls
-EXTINF:-1,
+#EXTINF:-1,
 
-EXTINF:-1,Ilgın FM
+#EXTINF:-1,Ilgın FM
 http://yayin2.canliyayin.org:9296/
-EXTINF:-1,İbadet FM
+#EXTINF:-1,İbadet FM
 http://188.138.94.225:8822
-EXTINF:-1,İmbat FM
+#EXTINF:-1,İmbat FM
 http://www.imbatfm.com/play.pls
-EXTINF:-1,İslam Radyo
+#EXTINF:-1,İslam Radyo
 http://islamradyo.net:3059/
-EXTINF:-1,İsra FM
+#EXTINF:-1,İsra FM
 http://yayin1.canliyayin.org:8210
-EXTINF:-1,İstanbul FM
+#EXTINF:-1,İstanbul FM
 http://sc-dist-ams.saglayici.net/istanbulfm
-EXTINF:-1,İstanbulun Sesi
+#EXTINF:-1,İstanbulun Sesi
 http://shoutcast.gostream.nl:8110/listen.pls
-EXTINF:-1,İtü Radyosu
+#EXTINF:-1,İtü Radyosu
 http://www.radyo.itu.edu.tr/ITU_Radio_Station.asx
-EXTINF:-1,Jest FM
+#EXTINF:-1,Jest FM
 http://jestfm.radyolarburada.com:8070/listen.pls
-EXTINF:-1,Jest FM Konya
+#EXTINF:-1,Jest FM Konya
 http://www.jestfm.net/mimages/asx-jestfm.asx
-EXTINF:-1,Joy FM
+#EXTINF:-1,Joy FM
 http://provisioning.streamtheworld.com/pls/JOY_FMAAC.pls
-EXTINF:-1,Joy Türk
+#EXTINF:-1,Joy Türk
 http://provisioning.streamtheworld.com/pls/JOY_TURKAAC.pls
-EXTINF:-1,Kaan FM
+#EXTINF:-1,Kaan FM
 http://yayin4.selcuklu.net:9090
-EXTINF:-1,Kalp FM
+#EXTINF:-1,Kalp FM
 http://kalpfm.radyolarburada.com:8088/listen.pls
-EXTINF:-1,Kanaltürk Radyo
+#EXTINF:-1,Kanaltürk Radyo
 http://kanalturkradyo.ercdn.net:443/listen.pls
-EXTINF:-1,Karadeniz FM
+#EXTINF:-1,Karadeniz FM
 http://mirasis.acteknik.com:11144/
-EXTINF:-1,Karadenizin Sesi
+#EXTINF:-1,Karadenizin Sesi
 http://yayin1.canliyayin.org:8204
-EXTINF:-1,Kardelen FM
+#EXTINF:-1,Kardelen FM
 http://dinle.kardelenfm.com:2000/listen.pls
-EXTINF:-1,Karma Love
+#EXTINF:-1,Karma Love
 http://stream.karmalove.com.tr/listen.pls
-EXTINF:-1,Karma Türk
+#EXTINF:-1,Karma Türk
 http://stream.karmaturk.com.tr/listen.pls
-EXTINF:-1,Karmalove FM
+#EXTINF:-1,Karmalove FM
 http://92.48.118.17:10480
-EXTINF:-1,Kay Radyo
+#EXTINF:-1,Kay Radyo
 http://yayin1.yayindakiler.com:3054/listen.pls
-EXTINF:-1,Kaya FM
+#EXTINF:-1,Kaya FM
 http://217.20.112.150:1111/
-EXTINF:-1,Kent FM
+#EXTINF:-1,Kent FM
 mms://95.211.98.4/rd-kentFM
-EXTINF:-1,Keskin FM
+#EXTINF:-1,Keskin FM
 http://yayin1.canliyayin.org:8286/listen.pls
-EXTINF:-1,Kevser Radyo
+#EXTINF:-1,Kevser Radyo
 http://www.medya16.net/playerlar/kevser.pls
-EXTINF:-1,Kırık Plaklar
+#EXTINF:-1,Kırık Plaklar
 http://sunucu.radyodinle.com:3255/listen.pls
-EXTINF:-1,Kilis Sultan Radyo
+#EXTINF:-1,Kilis Sultan Radyo
 http://free.freeshoutcast.com:47034/listen.pls
-EXTINF:-1,KissFm Romania
+#EXTINF:-1,KissFm Romania
 http://80.86.106.136/listen.pls
-EXTINF:-1,Konya FM
+#EXTINF:-1,Konya FM
 http://212.175.65.68:8001/
-EXTINF:-1,Konya Radyo Net
+#EXTINF:-1,Konya Radyo Net
 http://radyonet.radyoyayini.com:6314/listen.pls
-EXTINF:-1,Köln Radyosu
+#EXTINF:-1,Köln Radyosu
 http://www.funkhauseuropa.de/koelnradyosunet.m3u
-EXTINF:-1,Kral Damar FM
+#EXTINF:-1,Kral Damar FM
 http://www.kraldamarfm.com/kraldamarfm.pls
-EXTINF:-1,Kral FM
+#EXTINF:-1,Kral FM
 http://shoutcastdogus.cdnturk.com/listen.pls?sid=6
-EXTINF:-1,Kral Pop
+#EXTINF:-1,Kral Pop
 http://shoutcastdogus.cdnturk.com/listen.pls?sid=10
-EXTINF:-1,Kral Radyo
+#EXTINF:-1,Kral Radyo
 http://dinle.kralradyo.net:3000
-EXTINF:-1,Kral Türk
+#EXTINF:-1,Kral Türk
 http://sunucu2.radyolarburada.com:6565
-EXTINF:-1,Kumsal FM
+#EXTINF:-1,Kumsal FM
 http://kumsalradyo.radyoyayini.com:9550
-EXTINF:-1,Kumsal Radyo
+#EXTINF:-1,Kumsal Radyo
 http://kumsalradyo.radyoyayini.com:9550/listen.pls
-EXTINF:-1,Kuşadası FM
+#EXTINF:-1,Kuşadası FM
 http://yayin4.yayindayiz.biz:8050/
-EXTINF:-1,Küpe FM
+#EXTINF:-1,Küpe FM
 http://sr1.netmedya.org:9700/listen.pls
-EXTINF:-1,Lalegül FM
+#EXTINF:-1,Lalegül FM
 mms://yayin5.canliyayin.org/lalegulfm
-EXTINF:-1,LeechTurk
+#EXTINF:-1,LeechTurk
 http://leechturk.com:8002/
-EXTINF:-1,Lig Radyo
+#EXTINF:-1,Lig Radyo
 http://www.ligradyo.net/pls/ligradyo.pls
-EXTINF:-1,Lounge FM
+#EXTINF:-1,Lounge FM
 http://www.loungefm.net/LoungeFM96.pls
-EXTINF:-1,Love Türk
+#EXTINF:-1,Love Türk
 http://85.25.122.232:8000/loveturk
-EXTINF:-1,Magic FM
+#EXTINF:-1,Magic FM
 http://217.20.122.130:1456
-EXTINF:-1,Mamaş FM
+#EXTINF:-1,Mamaş FM
 http://www.mamasfm.com:8000
-EXTINF:-1,Marmara FM
+#EXTINF:-1,Marmara FM
 http://marmarafm.canliyayinda.com:8008
-EXTINF:-1,Marmara FM (Cihan)
+#EXTINF:-1,Marmara FM (Cihan)
 http://radyocihan.canliyayinda.com:1052/listen.pls
-EXTINF:-1,Masal FM
+#EXTINF:-1,Masal FM
 http://88.191.108.226:6060
-EXTINF:-1,Mavi FM
+#EXTINF:-1,Mavi FM
 http://yayin4.mavifm.com:8000/listen.pls
-EXTINF:-1,Mavi Karadeniz
+#EXTINF:-1,Mavi Karadeniz
 http://yayin1.canliyayin.org:8204/
-EXTINF:-1,Mavi Radyo
+#EXTINF:-1,Mavi Radyo
 http://sunucu2.radyolarburada.com:4343
-EXTINF:-1,Mavi Radyo Adana
+#EXTINF:-1,Mavi Radyo Adana
 http://sunucu2.radyolarburada.com:7535
-EXTINF:-1,Mavi Radyo Eskişehir
+#EXTINF:-1,Mavi Radyo Eskişehir
 mms://91.151.84.46/maviradyo
-EXTINF:-1,Mavi Radyo Hatay
+#EXTINF:-1,Mavi Radyo Hatay
 http://sunucu2.radyolarburada.com:4343/
-EXTINF:-1,Maviboncuk FM
+#EXTINF:-1,Maviboncuk FM
 http://maviboncukfm.com:8000/listen.pls
-EXTINF:-1,Max FM
+#EXTINF:-1,Max FM
 http://www.maxfm.com.tr/maxfm.wvx
-EXTINF:-1,Medya FM
+#EXTINF:-1,Medya FM
 http://live2.radyotvonline.com:9390/listen.pls
-EXTINF:-1,Mega Hit FM
+#EXTINF:-1,Mega Hit FM
 http://www.megahitfm.com/listen.pls
-EXTINF:-1,Melodi FM
+#EXTINF:-1,Melodi FM
 http://yayin.canlitv.com:5020
-EXTINF:-1,Meltem Radyo
+#EXTINF:-1,Meltem Radyo
 http://83.170.93.64:7882/
-EXTINF:-1,Mercan FM
+#EXTINF:-1,Mercan FM
 http://yayin2.selcuklu.net:7020/listen.pls
-EXTINF:-1,Mersin FM
+#EXTINF:-1,Mersin FM
 http://sunucu1.radyolarburada.com:9990/listen.pls
-EXTINF:-1,Mersin Radyo Klas
+#EXTINF:-1,Mersin Radyo Klas
 http://sunucu2.radyolarburada.com:9123/
-EXTINF:-1,Mesaj FM
+#EXTINF:-1,Mesaj FM
 http://yayin3.canlitv.com:8010/
-EXTINF:-1,Meteor FM
+#EXTINF:-1,Meteor FM
 mms://212.175.180.168/MSR
-EXTINF:-1,Metro FM
+#EXTINF:-1,Metro FM
 http://provisioning.streamtheworld.com/pls/METRO_FMAAC.pls
-EXTINF:-1,Metropol FM
+#EXTINF:-1,Metropol FM
 http://live5.radyotvonline.com:8070/
-EXTINF:-1,Mix FM
+#EXTINF:-1,Mix FM
 http://sunucu2.radyolarburada.com:8015/listen.pls
-EXTINF:-1,Moral FM
+#EXTINF:-1,Moral FM
 mms://yayin3.canliyayin.org/moralfm
-EXTINF:-1,Mydonose Türk Pop
+#EXTINF:-1,Mydonose Türk Pop
 http://mydonoseturk.radyolarburada.com:7555/
-EXTINF:-1,Naklen Futbol
+#EXTINF:-1,Naklen Futbol
 http://radyo1.kolayradyo.com:5000/listen.pls
-EXTINF:-1,Nehir Radyo
+#EXTINF:-1,Nehir Radyo
 http://95.154.236.4:8585
-EXTINF:-1,Nevşehir Radyo Mega
+#EXTINF:-1,Nevşehir Radyo Mega
 mms://yayin3.canliyayin.org/nevsehirradyomega
-EXTINF:-1,Niğde Tempo FM
+#EXTINF:-1,Niğde Tempo FM
 http://yayin1.canliyayin.org:8344/listen.pls
-EXTINF:-1,Nizip Radyo
+#EXTINF:-1,Nizip Radyo
 http://85.25.120.25:8342
-EXTINF:-1,Nostalji Türk
+#EXTINF:-1,Nostalji Türk
 http://yayin.cine5.com.tr:1074/listen.pls
-EXTINF:-1,NTV Radyo
+#EXTINF:-1,NTV Radyo
 http://shoutcastdogus.cdnturk.com/listen.pls?sid=17
-EXTINF:-1,NTV Spor
+#EXTINF:-1,NTV Spor
 http://shoutcastdogus.cdnturk.com/listen.pls?sid=25
-EXTINF:-1,Number One FM
+#EXTINF:-1,Number One FM
 http://www.numberone.com.tr/tr/stream.pls
-EXTINF:-1,Olay FM
+#EXTINF:-1,Olay FM
 http://www.olayfm.com.tr/live/listen.asx
-EXTINF:-1,One FM
+#EXTINF:-1,One FM
 http://sunucu1.radyolarburada.com:9085
-EXTINF:-1,Ortaca FM
+#EXTINF:-1,Ortaca FM
 http://live.radyotvonline.com:9100/listen.pls
-EXTINF:-1,Osmancık FM
+#EXTINF:-1,Osmancık FM
 http://radyo5.alyasoft.net:7369/listen.pls
-EXTINF:-1,Ostim Radyo
+#EXTINF:-1,Ostim Radyo
 http://yayin.asymedya.com:8079/listen.pls
-EXTINF:-1,Öncü Radyo
+#EXTINF:-1,Öncü Radyo
 http://yayin.canlitv.com:9040/listen.pls
-EXTINF:-1,Özel FM
+#EXTINF:-1,Özel FM
 http://85.95.248.115:8014/listen.pls
-EXTINF:-1,Özgür Radyo
+#EXTINF:-1,Özgür Radyo
 http://canliyayin.ozgurradyo.com:8100/
-EXTINF:-1,Özlem FM
+#EXTINF:-1,Özlem FM
 http://yayin2.yayindakiler.com:4062/listen.pls
-EXTINF:-1,Özlem Radyo
+#EXTINF:-1,Özlem Radyo
 http://217.20.112.150:4671
-EXTINF:-1,Özmen FM
+#EXTINF:-1,Özmen FM
 http://84.16.227.87:1200
-EXTINF:-1,Pal FM
+#EXTINF:-1,Pal FM
 http://77.223.136.16:9920/
-EXTINF:-1,Pal Station
+#EXTINF:-1,Pal Station
 http://77.223.136.16:1860/
-EXTINF:-1,Park FM
+#EXTINF:-1,Park FM
 http://park.netradyom.com:1345
-EXTINF:-1,Polis Radyosu
+#EXTINF:-1,Polis Radyosu
 mms://82.222.167.136/pr2
-EXTINF:-1,Power FM
+#EXTINF:-1,Power FM
 http://46.20.4.43:8130/listen.pls
-EXTINF:-1,Power Hitz
+#EXTINF:-1,Power Hitz
 http://www.powerhitz.com/ph.pls
-EXTINF:-1,Power Türk
+#EXTINF:-1,Power Türk
 http://46.20.4.58:8040/listen.pls
-EXTINF:-1,Power XL
+#EXTINF:-1,Power XL
 http://www.powerxl.com.tr/2010/streamm.wax
-EXTINF:-1,Radio Active
+#EXTINF:-1,Radio Active
 http://yayin.turkhosted.com:999/
-EXTINF:-1,Radio Life
+#EXTINF:-1,Radio Life
 http://radyolife.radyonudinle.com:9505/listen.pls
-EXTINF:-1,Radio Line
+#EXTINF:-1,Radio Line
 http://radioline.fm:8000/listen.pls
-EXTINF:-1,Radio Mic Beatz
+#EXTINF:-1,Radio Mic Beatz
 http://199.16.186.36:8316/listen.pls
-EXTINF:-1,Radio Mydonose
+#EXTINF:-1,Radio Mydonose
 http://provisioning.streamtheworld.com/pls/RADIO_MYDONOSEAAC.pls
-EXTINF:-1,Radio N101
+#EXTINF:-1,Radio N101
 http://radio3.cdntr.com/n101.asx
-EXTINF:-1,Radio Shema
+#EXTINF:-1,Radio Shema
 http://yayin.netradyom.com:9030/listen.pls
-EXTINF:-1,Radio Voyage
+#EXTINF:-1,Radio Voyage
 http://shoutcastdogus.cdnturk.com/listen.pls?sid=22
-EXTINF:-1,Radyo 03
+#EXTINF:-1,Radyo 03
 http://www.radyo03.com.tr/radyo03.pls
-EXTINF:-1,Radyo 06
+#EXTINF:-1,Radyo 06
 http://live.radyotvonline.com:8170/listen.pls
-EXTINF:-1,Radyo 09
+#EXTINF:-1,Radyo 09
 http://yayin.radyo09.com:8260/listen.pls
-EXTINF:-1,Radyo 1
+#EXTINF:-1,Radyo 1
 http://213.194.106.141:8000
-EXTINF:-1,Radyo 16 Bursa
+#EXTINF:-1,Radyo 16 Bursa
 http://sh1.mncdn.net:8068/listen.pls
-EXTINF:-1,Radyo 2000
+#EXTINF:-1,Radyo 2000
 http://stream.taksimbilisim.com:8004/listen.pls
-EXTINF:-1,Radyo 2000 (Farklı)
+#EXTINF:-1,Radyo 2000 (Farklı)
 http://radyo2000.radyoyayini.com:2000/listen.pls
-EXTINF:-1,Radyo 34
+#EXTINF:-1,Radyo 34
 http://yayin2.canliyayin.org:7424
-EXTINF:-1,Radyo 35
+#EXTINF:-1,Radyo 35
 http://85.25.122.231:8287/
-EXTINF:-1,Radyo 7
+#EXTINF:-1,Radyo 7
 http://live.gostream.nl:8000/listen.pls
-EXTINF:-1,Radyo 7 Sanat
+#EXTINF:-1,Radyo 7 Sanat
 http://live.gostream.nl:8050/listen.pls
-EXTINF:-1,Radyo 7 Şiir
+#EXTINF:-1,Radyo 7 Şiir
 http://live.gostream.nl:8090/
-EXTINF:-1,Radyo 7 Tasavvuf
+#EXTINF:-1,Radyo 7 Tasavvuf
 http://live.gostream.nl:8060/
-EXTINF:-1,Radyo 7 Türkü
+#EXTINF:-1,Radyo 7 Türkü
 http://live.gostream.nl:8010/listen.pls
-EXTINF:-1,Radyo 71
+#EXTINF:-1,Radyo 71
 http://217.20.122.130:1717/
-EXTINF:-1,Radyo 81
+#EXTINF:-1,Radyo 81
 http://radyo.radyo81.com:2929/
-EXTINF:-1,Radyo 90
+#EXTINF:-1,Radyo 90
 http://live.radyotvonline.com:9400/
-EXTINF:-1,Radyo 99
+#EXTINF:-1,Radyo 99
 http://212.7.200.213:6004/listen.pls
-EXTINF:-1,Radyo A
+#EXTINF:-1,Radyo A
 http://www.radyoa.anadolu.edu.tr/dinle/winamp
-EXTINF:-1,Radyo A (Ankara)
+#EXTINF:-1,Radyo A (Ankara)
 mms://88.255.31.105:554/radyoa
-EXTINF:-1,Radyo Ahenk
+#EXTINF:-1,Radyo Ahenk
 http://stream.radyoahenk.com.tr/listen.pls
-EXTINF:-1,Radyo Ak
+#EXTINF:-1,Radyo Ak
 http://radyoak.com.tr/RADYOAK.asx
-EXTINF:-1,Radyo Akademi
+#EXTINF:-1,Radyo Akademi
 http://www.radyoakademi.com/player/RADYO_AKADEMi_MP.asx
-EXTINF:-1,Radyo Akdeniz
+#EXTINF:-1,Radyo Akdeniz
 http://185.9.156.136:8634/
-EXTINF:-1,Radyo Akdeniz (Farklı)
+#EXTINF:-1,Radyo Akdeniz (Farklı)
 http://sunucu4.radyolarburada.com:4466/
-EXTINF:-1,Radyo Akigo
+#EXTINF:-1,Radyo Akigo
 http://yayin.radyoakigo.com.tr:9740/listen.pls
-EXTINF:-1,Radyo Aktif
+#EXTINF:-1,Radyo Aktif
 http://www.yayindakiler.com/playlist/radyoaktif.asx
-EXTINF:-1,Radyo Aktif (Thm)
+#EXTINF:-1,Radyo Aktif (Thm)
 http://sunucu2.radyolarburada.com:5484/
-EXTINF:-1,Radyo Akustik
+#EXTINF:-1,Radyo Akustik
 http://94.75.222.231:8088/listen.pls
-EXTINF:-1,Radyo Alaturka
+#EXTINF:-1,Radyo Alaturka
 http://stream.radyoalaturka.com.tr/listen.pls
-EXTINF:-1,Radyo Anadolu
+#EXTINF:-1,Radyo Anadolu
 http://yayin.canlitv.com:8050/
-EXTINF:-1,Radyo Artı
+#EXTINF:-1,Radyo Artı
 http://188.132.230.252:9898/listen.pls
-EXTINF:-1,Radyo As
+#EXTINF:-1,Radyo As
 http://www.radyoas.com/radyo-dinle/as.wax
-EXTINF:-1,Radyo Asya
+#EXTINF:-1,Radyo Asya
 http://yayin.canlitv.com:6060/listen.pls
-EXTINF:-1,Radyo Aşk
+#EXTINF:-1,Radyo Aşk
 http://80.239.141.175:9966/listen.pls
-EXTINF:-1,Radyo Avrasya Türk
+#EXTINF:-1,Radyo Avrasya Türk
 http://radyoavrasya.radyolarburada.com:1071
-EXTINF:-1,Radyo Avrupa
+#EXTINF:-1,Radyo Avrupa
 http://yayin.kusto.com/radyodsl.asx
-EXTINF:-1,Radyo Barış
+#EXTINF:-1,Radyo Barış
 http://sunucu.radyodinle.com:8510/listen.pls
-EXTINF:-1,Radyo Başkent
+#EXTINF:-1,Radyo Başkent
 mms://193.140.162.117:8080/
-EXTINF:-1,Radyo Beşiktaş
+#EXTINF:-1,Radyo Beşiktaş
 http://91.191.165.173/radyobesiktas
-EXTINF:-1,Radyo Beyaz
+#EXTINF:-1,Radyo Beyaz
 http://radyo.normworks.com:8000/listen.pls
-EXTINF:-1,Radyo Bilkent
+#EXTINF:-1,Radyo Bilkent
 http://sunucu2.radyolarburada.com:5000/
-EXTINF:-1,Radyo Bizimstar
+#EXTINF:-1,Radyo Bizimstar
 http://85.25.141.78:7575
-EXTINF:-1,Radyo Bora
+#EXTINF:-1,Radyo Bora
 http://yayin1.canliyayin.org:8214
-EXTINF:-1,Radyo Bordo Mavi
+#EXTINF:-1,Radyo Bordo Mavi
 http://yayin4.selcuklu.net:7030
-EXTINF:-1,Radyo Boyko
+#EXTINF:-1,Radyo Boyko
 http://server.radyoboyko.com:8050
-EXTINF:-1,Radyo Can
+#EXTINF:-1,Radyo Can
 http://radyocan.com.tr/radyo/radyocann.asx
-EXTINF:-1,Radyo Can Tekirdağ
+#EXTINF:-1,Radyo Can Tekirdağ
 mms://173.224.120.197:36072/RadyoCan
-EXTINF:-1,Radyo Cihan
+#EXTINF:-1,Radyo Cihan
 rtsp://streaming.radyocihan.com/dvr/radyocihan.stream
-EXTINF:-1,Radyo Cum
+#EXTINF:-1,Radyo Cum
 mms://cubidtv.cumhuriyet.edu.tr/radyo
-EXTINF:-1,Radyo Çan Çanakkale
+#EXTINF:-1,Radyo Çan Çanakkale
 http://canfm1005.radyoyayini.com:7080
-EXTINF:-1,Radyo Çınar
+#EXTINF:-1,Radyo Çınar
 http://www.cinarradyo.com/yayin.asx
-EXTINF:-1,Radyo D
+#EXTINF:-1,Radyo D
 http://radyod32.tbt.com.tr/listen.pls
-EXTINF:-1,Radyo Dadaş
+#EXTINF:-1,Radyo Dadaş
 http://85.17.137.151:6719/listen.pls
-EXTINF:-1,Radyo Damla
+#EXTINF:-1,Radyo Damla
 http://radyodamla.radyoyayini.com:6270
-EXTINF:-1,Radyo Davet
+#EXTINF:-1,Radyo Davet
 http://78.189.204.30:8060/listen.pls
-EXTINF:-1,Radyo Denge
+#EXTINF:-1,Radyo Denge
 http://yayin1.canliyayin.org:8278/
-EXTINF:-1,Radyo Deniz
+#EXTINF:-1,Radyo Deniz
 http://www.multitv.nl/multitv.asx
-EXTINF:-1,Radyo Derya
+#EXTINF:-1,Radyo Derya
 http://gecelife.net:1931
-EXTINF:-1,Radyo Derya Konya
+#EXTINF:-1,Radyo Derya Konya
 http://46.165.233.174:3044/
-EXTINF:-1,Radyo Doğa
+#EXTINF:-1,Radyo Doğa
 http://188.132.230.252:9751/listen.pls
-EXTINF:-1,Radyo Doğuş
+#EXTINF:-1,Radyo Doğuş
 http://217.20.112.150:9833/
-EXTINF:-1,Radyo Dumlupınar
+#EXTINF:-1,Radyo Dumlupınar
 http://dumlupinar.radyoyayini.com:3636/listen.pls
-EXTINF:-1,Radyo Duygudiyarı
+#EXTINF:-1,Radyo Duygudiyarı
 Http://gecelife.biz:2000/listen.pls
-EXTINF:-1,Radyo E
+#EXTINF:-1,Radyo E
 http://euro3.bizidinle.com/yayin-bd-radyoe
-EXTINF:-1,Radyo Ege
+#EXTINF:-1,Radyo Ege
 mms://213.142.142.213/radyoege
-EXTINF:-1,Radyo Ekin
+#EXTINF:-1,Radyo Ekin
 http://mirasis.acteknik.com:11080/
-EXTINF:-1,Radyo Eksen
+#EXTINF:-1,Radyo Eksen
 http://shoutcastdogus.cdnturk.com/listen.pls?sid=14
-EXTINF:-1,Radyo Elçi
+#EXTINF:-1,Radyo Elçi
 http://radyoelci.radyoyayini.com:9390/
-EXTINF:-1,Radyo Elma
+#EXTINF:-1,Radyo Elma
 http://euro3.bizidinle.com/yayin-bd-radyoelma
-EXTINF:-1,Radyo En
+#EXTINF:-1,Radyo En
 mms://yayin4.canliyayin.org/radyoen
-EXTINF:-1,Radyo Ender
+#EXTINF:-1,Radyo Ender
 http://radyo1.alyasoft.net:8201/
-EXTINF:-1,Radyo Enerjik
+#EXTINF:-1,Radyo Enerjik
 http://84.16.253.236:8240/listen.pls
-EXTINF:-1,Radyo Erguvan
+#EXTINF:-1,Radyo Erguvan
 http://yayin3.yayindayiz.biz:8310/listen.pls
-EXTINF:-1,Radyo Ert
+#EXTINF:-1,Radyo Ert
 http://www.bizidinle.com/player/radyoasx.asp?id=22
-EXTINF:-1,Radyo Eylül
+#EXTINF:-1,Radyo Eylül
 http://yayin1.yayindakiler.com:3090/listen.pls
-EXTINF:-1,Radyo Fantazi
+#EXTINF:-1,Radyo Fantazi
 http://176.31.3.209:3867/listen.pls
-EXTINF:-1,Radyo Faruki
+#EXTINF:-1,Radyo Faruki
 http://radyo.radyofaruki.com:1324/
-EXTINF:-1,Radyo Fenomen
+#EXTINF:-1,Radyo Fenomen
 http://46.20.4.51:8040/
-EXTINF:-1,Radyo Feza
+#EXTINF:-1,Radyo Feza
 rtmp://yayin.yayin.tv.tr:1935/live/feza
-EXTINF:-1,Radyo Flash
+#EXTINF:-1,Radyo Flash
 http://188.138.6.6:8006
-EXTINF:-1,Radyo Fresh
+#EXTINF:-1,Radyo Fresh
 http://sunucu4.radyolarburada.com:9040/
-EXTINF:-1,Radyo Galatasaray
+#EXTINF:-1,Radyo Galatasaray
 http://live.radyotvonline.com:9010/listen.pls
-EXTINF:-1,Radyo Garip
+#EXTINF:-1,Radyo Garip
 http://62.212.84.42:8888/listen.pls
-EXTINF:-1,Radyo Gazi
+#EXTINF:-1,Radyo Gazi
 mms://194.27.17.6:100/
-EXTINF:-1,Radyo Gelişim
+#EXTINF:-1,Radyo Gelişim
 http://85.17.137.32:5253/listen.pls
-EXTINF:-1,Radyo Gökkuşağı
+#EXTINF:-1,Radyo Gökkuşağı
 http://89.149.244.88:9200/listen.pls
-EXTINF:-1,Radyo Gönül FM
+#EXTINF:-1,Radyo Gönül FM
 http://radyogonulfm.net:8706/
-EXTINF:-1,Radyo Gül
+#EXTINF:-1,Radyo Gül
 mms://yayin4.canliyayin.org/radyogul
-EXTINF:-1,Radyo Gün Çorum
+#EXTINF:-1,Radyo Gün Çorum
 http://217.20.112.150:8945
-EXTINF:-1,Radyo Güneş
+#EXTINF:-1,Radyo Güneş
 http://yayin1.canliyayin.org:5024/listen.pls
-EXTINF:-1,Radyo Güneş Sivas
+#EXTINF:-1,Radyo Güneş Sivas
 mms://yayin4.canliyayin.org/sivasradyogunes
-EXTINF:-1,Radyo Güney
+#EXTINF:-1,Radyo Güney
 http://sunucu2.radyolarburada.com:9920/listen.pls
-EXTINF:-1,Radyo Güvener
+#EXTINF:-1,Radyo Güvener
 http://mirasis.acteknik.com:11004/listen.pls
-EXTINF:-1,Radyo Haber
+#EXTINF:-1,Radyo Haber
 http://46.165.233.175:4118/
-EXTINF:-1,Radyo Hacettepe
+#EXTINF:-1,Radyo Hacettepe
 mms://194.27.167.87/RadyoCD
-EXTINF:-1,Radyo Han
+#EXTINF:-1,Radyo Han
 http://radyohan.dinlerim.com:9228/
-EXTINF:-1,Radyo Hasat
+#EXTINF:-1,Radyo Hasat
 http://212.7.200.213:8055/listen.pls
-EXTINF:-1,Radyo Hasret
+#EXTINF:-1,Radyo Hasret
 http://www.hasretiz.net/listen.wax
-EXTINF:-1,Radyo Hayat
+#EXTINF:-1,Radyo Hayat
 http://live4.radyotvonline.com:9450/listen.pls
-EXTINF:-1,Radyo Hayat Net
+#EXTINF:-1,Radyo Hayat Net
 http://www.radyohayat.com/dinle/playlist.asx
-EXTINF:-1,Radyo Hazar
+#EXTINF:-1,Radyo Hazar
 rtmp://win5.yayinda.org:1935/radyohazar/default.stream
-EXTINF:-1,Radyo Hilal
+#EXTINF:-1,Radyo Hilal
 http://yayin1.canliyayin.org:8388
-EXTINF:-1,Radyo Hiraş
+#EXTINF:-1,Radyo Hiraş
 http://yayin.radyohiras.com:9250/listen.pls
-EXTINF:-1,Radyo Hitmix
+#EXTINF:-1,Radyo Hitmix
 http://yayin.kafkasmedyagrup.com:7068/;stream.nsv
-EXTINF:-1,Radyo Iz
+#EXTINF:-1,Radyo Iz
 http://canli.radyoiz.net:7070/
-EXTINF:-1,Radyo İhsan
+#EXTINF:-1,Radyo İhsan
 http://sunucu1.radyolarburada.com:7473/
-EXTINF:-1,Radyo İkibin
+#EXTINF:-1,Radyo İkibin
 http://www.bizidinle.com/player/winamp.pls?rd_tanim=radyo2000
-EXTINF:-1,Radyo İlaç
+#EXTINF:-1,Radyo İlaç
 http://sr1.netmedya.org:1008/
-EXTINF:-1,Radyo İlef
+#EXTINF:-1,Radyo İlef
 http://ilef.ankara.edu.tr/netcast/radyoilef.pls
-EXTINF:-1,Radyo İletişim
+#EXTINF:-1,Radyo İletişim
 mms://188.72.250.76/iuradyo
-EXTINF:-1,Radyo İmaj
+#EXTINF:-1,Radyo İmaj
 http://84.16.227.87:2200/
-EXTINF:-1,Radyo İslam
+#EXTINF:-1,Radyo İslam
 http://radyoislam.com/radyoislam1.asx
-EXTINF:-1,Radyo İslam (Avusturya)
+#EXTINF:-1,Radyo İslam (Avusturya)
 http://yayin.radyoislam.net:2009/listen.pls
-EXTINF:-1,Radyo Jet
+#EXTINF:-1,Radyo Jet
 http://www.medya16.net/playerlar/jet.pls
-EXTINF:-1,Radyo K
+#EXTINF:-1,Radyo K
 http://yayin4.selcuklu.net:5050/listen.pls
-EXTINF:-1,Radyo Karadeniz
+#EXTINF:-1,Radyo Karadeniz
 http://95.9.142.245:8000
-EXTINF:-1,Radyo Kent
+#EXTINF:-1,Radyo Kent
 http://yayin1.yayindakiler.com:3062/
-EXTINF:-1,Radyo Kent Düzce
+#EXTINF:-1,Radyo Kent Düzce
 http://mirasis.acteknik.com:11090
-EXTINF:-1,Radyo Kırık Plaklar
+#EXTINF:-1,Radyo Kırık Plaklar
 http://217.20.122.130:3255/listen.pls
-EXTINF:-1,Radyo Kilim
+#EXTINF:-1,Radyo Kilim
 http://sunucu.radyodinle.com:2727/listen.pls
-EXTINF:-1,Radyo Kilis FM
+#EXTINF:-1,Radyo Kilis FM
 http://yayin2.yayindayiz.biz:8220/listen.pls
-EXTINF:-1,Radyo Klas
+#EXTINF:-1,Radyo Klas
 http://klas.radyoyayini.com:3332/listen.pls
-EXTINF:-1,Radyo Kötüvepis
+#EXTINF:-1,Radyo Kötüvepis
 http://yayin.radyokvp.com:8020
-EXTINF:-1,Radyo Kral
+#EXTINF:-1,Radyo Kral
 http://www.cnet-host.net:8000
-EXTINF:-1,Radyo Kulüp
+#EXTINF:-1,Radyo Kulüp
 http://loveturk.radyolarburada.com:8077/
-EXTINF:-1,Radyo KumruNet
+#EXTINF:-1,Radyo KumruNet
 http://95.211.32.1:8745
-EXTINF:-1,Radyo KvP
+#EXTINF:-1,Radyo KvP
 http://85.95.245.50:8024/listen.pls
-EXTINF:-1,Radyo Lazmix
+#EXTINF:-1,Radyo Lazmix
 http://yayin2.selcuklu.net:3535/
-EXTINF:-1,Radyo Light
+#EXTINF:-1,Radyo Light
 http://94.102.13.110:8201
-EXTINF:-1,Radyo Lojik
+#EXTINF:-1,Radyo Lojik
 http://www.radyolojik.com/connect/mp3lo.m3u
-EXTINF:-1,Radyo Martı
+#EXTINF:-1,Radyo Martı
 http://sunucu4.radyolarburada.com:9880/
-EXTINF:-1,Radyo Medcezir
+#EXTINF:-1,Radyo Medcezir
 http://radyo.radyomedcezir.com:9999/listen.pls
-EXTINF:-1,Radyo Medya
+#EXTINF:-1,Radyo Medya
 http://medyafm.radyoyayini.com:6304
-EXTINF:-1,Radyo Mega
+#EXTINF:-1,Radyo Mega
 http://sunucu4.radyolarburada.com:1054/listen.pls
-EXTINF:-1,Radyo Mega Ordu
+#EXTINF:-1,Radyo Mega Ordu
 http://84.16.230.129:8842
-EXTINF:-1,Radyo Megasite
+#EXTINF:-1,Radyo Megasite
 http://mega.netradyom.com:7900/listen.pls
-EXTINF:-1,Radyo Metropol
+#EXTINF:-1,Radyo Metropol
 http://radyometropol.radyolarburada.com:5544/
-EXTINF:-1,Radyo Mix
+#EXTINF:-1,Radyo Mix
 http://188.72.227.43:9000/
-EXTINF:-1,Radyo Moda
+#EXTINF:-1,Radyo Moda
 http://94.75.221.198:9000/
-EXTINF:-1,Radyo Muba
+#EXTINF:-1,Radyo Muba
 http://sunucu2.radyolarburada.com:9080/listen.pls
-EXTINF:-1,Radyo Munzur
+#EXTINF:-1,Radyo Munzur
 http://185.12.111.159:9988/listen.pls
-EXTINF:-1,Radyo Mydonose
+#EXTINF:-1,Radyo Mydonose
 http://provisioning.streamtheworld.com/pls/RADIO_MYDONOSEAAC.pls
-EXTINF:-1,Radyo Mydonose - Türkçe
+#EXTINF:-1,Radyo Mydonose - Türkçe
 http://mydonoseturk.radyolarburada.com:7555
-EXTINF:-1,Radyo Namal
+#EXTINF:-1,Radyo Namal
 http://www.onlinedinle.com:8350/listen.pls
-EXTINF:-1,Radyo Nebi
+#EXTINF:-1,Radyo Nebi
 http://www.radyonebi.com/radyo/yayin.asx
-EXTINF:-1,Radyo NET
+#EXTINF:-1,Radyo NET
 http://217.20.122.130:8472/
-EXTINF:-1,Radyo Nostalji
+#EXTINF:-1,Radyo Nostalji
 http://yayin.cine5.com.tr:1074/listen.pls
-EXTINF:-1,Radyo Nur
+#EXTINF:-1,Radyo Nur
 mms://yayin.radyonur.com/radyonur
-EXTINF:-1,Radyo ODTU
+#EXTINF:-1,Radyo ODTU
 http://50.7.186.66:8002/
-EXTINF:-1,Radyo On
+#EXTINF:-1,Radyo On
 http://yayin.asymedya.com:8040/listen.pls
-EXTINF:-1,Radyo Onbeş
+#EXTINF:-1,Radyo Onbeş
 http://canli.semerkand.tv:8000/listen.pls
-EXTINF:-1,Radyo Öğüt
+#EXTINF:-1,Radyo Öğüt
 http://yayin.ogutfm.com:1021/listen.pls
-EXTINF:-1,Radyo Özden
+#EXTINF:-1,Radyo Özden
 http://live.radyotvonline.com:9050/listen.pls
-EXTINF:-1,Radyo Özgür
+#EXTINF:-1,Radyo Özgür
 http://ozgurradyo.radyolarburada.com:8720/
-EXTINF:-1,Radyo Park
+#EXTINF:-1,Radyo Park
 http://yayin.yayindayiz.biz:8000/
-EXTINF:-1,Radyo Pause
+#EXTINF:-1,Radyo Pause
 http://live5.radyotvonline.com:8010/
-EXTINF:-1,Radyo Pegai
+#EXTINF:-1,Radyo Pegai
 http://server1.radyoyayini.com:7030/listen.pls
-EXTINF:-1,Radyo Pink
+#EXTINF:-1,Radyo Pink
 http://live2.radyotvonline.com:8000/listen.pls
-EXTINF:-1,Radyo Piramit
+#EXTINF:-1,Radyo Piramit
 http://live.radyotvonline.com:9000/listen.pls
-EXTINF:-1,Radyo Play
+#EXTINF:-1,Radyo Play
 http://radyoplay.radyoyayini.com:9885/listen.pls
-EXTINF:-1,Radyo Plus
+#EXTINF:-1,Radyo Plus
 http://yayin1.canliyayin.org:8992/listen.pls
-EXTINF:-1,Radyo POP
+#EXTINF:-1,Radyo POP
 http://80.radyopop.com:80/listen.pls
-EXTINF:-1,Radyo Rahmet
+#EXTINF:-1,Radyo Rahmet
 http://yayin3.canlitv.com:8060/
-EXTINF:-1,Radyo Ritm
+#EXTINF:-1,Radyo Ritm
 http://88.250.73.16:8000/listen.pls
-EXTINF:-1,Radyo Sahil
+#EXTINF:-1,Radyo Sahil
 http://217.20.122.130:8295
-EXTINF:-1,Radyo Samanyolu
+#EXTINF:-1,Radyo Samanyolu
 http://www.radyosamanyolu.biz/dinletici/radyo_samanyolu.wmx
-EXTINF:-1,Radyo Ses
+#EXTINF:-1,Radyo Ses
 http://www.radyoses.com.tr/Tr/RadyoSes.wpl
-EXTINF:-1,Radyo Ses Adana
+#EXTINF:-1,Radyo Ses Adana
 http://85.153.17.231:5258/listen.pls
-EXTINF:-1,Radyo Ses Eskişehir
+#EXTINF:-1,Radyo Ses Eskişehir
 http://live2.radyotvonline.com:8095/
-EXTINF:-1,Radyo Ses Mersin
+#EXTINF:-1,Radyo Ses Mersin
 http://yayin1.yayindakiler.com:3080/
-EXTINF:-1,Radyo Seymen
+#EXTINF:-1,Radyo Seymen
 http://213.128.77.142:8050/
-EXTINF:-1,Radyo Sır
+#EXTINF:-1,Radyo Sır
 http://93.186.121.61:8000
-EXTINF:-1,Radyo Simge
+#EXTINF:-1,Radyo Simge
 http://radyosimge.net:8022
-EXTINF:-1,Radyo Sky
+#EXTINF:-1,Radyo Sky
 http://skyradyo.org:8300/
-EXTINF:-1,Radyo Spor
+#EXTINF:-1,Radyo Spor
 http://live4.radyotvonline.com:8160/
-EXTINF:-1,Radyo Star
+#EXTINF:-1,Radyo Star
 http://www.onlinedinle.com:9966/
-EXTINF:-1,Radyo Star Artı
+#EXTINF:-1,Radyo Star Artı
 mms://yayin.pcdoktorum.com/starfm
-EXTINF:-1,Radyo Star Tarsus
+#EXTINF:-1,Radyo Star Tarsus
 http://89.149.244.39:7572
-EXTINF:-1,Radyo Su
+#EXTINF:-1,Radyo Su
 http://radyosu.sabanciuniv.edu:8002
-EXTINF:-1,Radyo Şafak
+#EXTINF:-1,Radyo Şafak
 http://yayin.turkhosted.com:6040/
-EXTINF:-1,Radyo Şahin
+#EXTINF:-1,Radyo Şahin
 http://www.radyosahin.com/yayin.pls
-EXTINF:-1,Radyo Şahin - Kocaeli
+#EXTINF:-1,Radyo Şahin - Kocaeli
 http://sr1.netmedya.org:1272/
-EXTINF:-1,Radyo Şampiyon
+#EXTINF:-1,Radyo Şampiyon
 http://37.123.97.70:32950/
-EXTINF:-1,Radyo Şimşek
+#EXTINF:-1,Radyo Şimşek
 http://radyosimsek.canliyayinda.com:9150
-EXTINF:-1,Radyo Şirinnar
+#EXTINF:-1,Radyo Şirinnar
 http://yayin2.yayindakiler.com:4048/listen.pls
-EXTINF:-1,Radyo Tatlıses
+#EXTINF:-1,Radyo Tatlıses
 http://85.111.3.52:8040/listen.pls
-EXTINF:-1,Radyo Tech
+#EXTINF:-1,Radyo Tech
 http://188.72.235.20:3232/;stream.mp3&13039711644
-EXTINF:-1,Radyo Tek
+#EXTINF:-1,Radyo Tek
 http://yayin1.canliyayin.org:8262/
-EXTINF:-1,Radyo Tek Çumra
+#EXTINF:-1,Radyo Tek Çumra
 http://95.10.12.71:8000
-EXTINF:-1,Radyo Tek Samsun
+#EXTINF:-1,Radyo Tek Samsun
 http://85.25.120.25:8352
-EXTINF:-1,Radyo Tempo
+#EXTINF:-1,Radyo Tempo
 http://sh1.mncdn.net:8046/listen.pls
-EXTINF:-1,Radyo Torbalı FM
+#EXTINF:-1,Radyo Torbalı FM
 http://78.46.60.240:9826/listen.pls
-EXTINF:-1,Radyo Trafik
+#EXTINF:-1,Radyo Trafik
 http://live2.radyotvonline.com:8000/
-EXTINF:-1,Radyo Tsm
+#EXTINF:-1,Radyo Tsm
 http://www.radyotsm.com/playlist.asx
-EXTINF:-1,Radyo Turkuaz
+#EXTINF:-1,Radyo Turkuaz
 http://www.radyokvp.com/RadyoKvP.wax
-EXTINF:-1,Radyo Turkuvaz
+#EXTINF:-1,Radyo Turkuvaz
 http://rdshout.turkuvazgroup.net:8000/
-EXTINF:-1,Radyo Tutku
+#EXTINF:-1,Radyo Tutku
 http://sh1.mncdn.net:8062/listen.pls
-EXTINF:-1,Radyo Türküm
+#EXTINF:-1,Radyo Türküm
 http://live2.radyotvonline.com:8270/listen.pls
-EXTINF:-1,Radyo Umut
+#EXTINF:-1,Radyo Umut
 http://radyoumut.radyoyayini.com:8041/listen.pls
-EXTINF:-1,Radyo Ülkü
+#EXTINF:-1,Radyo Ülkü
 http://sunucu4.radyolarburada.com:7878/listen.pls
-EXTINF:-1,Radyo Vakit
+#EXTINF:-1,Radyo Vakit
 http://www.radyovakit.com/yayin.asx
-EXTINF:-1,Radyo Venus
+#EXTINF:-1,Radyo Venus
 mms://yayin3.canliyayin.org/radyovenus
-EXTINF:-1,Radyo Venüs Balıkesir
+#EXTINF:-1,Radyo Venüs Balıkesir
 http://canli.radyoyayini.com:9220/
-EXTINF:-1,Radyo Viva
+#EXTINF:-1,Radyo Viva
 http://viva.ingest.ercdn.net:8140/
-EXTINF:-1,Radyo Vizyon Ankara
+#EXTINF:-1,Radyo Vizyon Ankara
 http://vizyon.acteknik.com:9300/
-EXTINF:-1,Radyo Vizyon Bursa
+#EXTINF:-1,Radyo Vizyon Bursa
 http://yayin2.yayindakiler.com:4140
-EXTINF:-1,Radyo Vizyon Türk
+#EXTINF:-1,Radyo Vizyon Türk
 http://yayin3.canlitv.com:4050/listen.pls
-EXTINF:-1,Radyo Voyage
+#EXTINF:-1,Radyo Voyage
 http://shoutcastdogus.cdnturk.com/listen.pls?sid=22
-EXTINF:-1,Radyo Webmaster
+#EXTINF:-1,Radyo Webmaster
 http://94.75.222.230:8724/listen.pls
-EXTINF:-1,Radyo X Ege
+#EXTINF:-1,Radyo X Ege
 mms://xradyo.com/x
-EXTINF:-1,Radyo Yüksel
+#EXTINF:-1,Radyo Yüksel
 http://yayin2.canliyayin.org:8248/
-EXTINF:-1,Radyo Z
+#EXTINF:-1,Radyo Z
 http://sunucu.radyodinle.com:2222/listen.pls
-EXTINF:-1,Radyo Zonguldak
+#EXTINF:-1,Radyo Zonguldak
 http://live.radyotvonline.com:8400/
-EXTINF:-1,Radyo52
+#EXTINF:-1,Radyo52
 http://radyo.ordu52.com/listen/listenM.asx
-EXTINF:-1,RadyoMoto
+#EXTINF:-1,RadyoMoto
 http://85.25.120.171:8500/listen.pls
-EXTINF:-1,RadyOrjinal
+#EXTINF:-1,RadyOrjinal
 http://radyo.radyorjinal.com:7232/listen.pls
-EXTINF:-1,Radyovizyon
+#EXTINF:-1,Radyovizyon
 http://www.radyolarburada.com:6550/listen.pls
-EXTINF:-1,Rahmet FM
+#EXTINF:-1,Rahmet FM
 http://yayin3.canlitv.com:8060/listen.pls
-EXTINF:-1,Renk FM
+#EXTINF:-1,Renk FM
 http://yayin1.yayindakiler.com:3158
-EXTINF:-1,Rhythm Digital Station
+#EXTINF:-1,Rhythm Digital Station
 http://stream.ctduo.com/ctduo/rhythm.pls
-EXTINF:-1,Ribat FM
+#EXTINF:-1,Ribat FM
 http://50.7.240.146:7010/
-EXTINF:-1,RMF FM
+#EXTINF:-1,RMF FM
 http://www.miastomuzyki.pl/odbior/rmf_aacp.pls
-EXTINF:-1,Rock FM
+#EXTINF:-1,Rock FM
 http://92.48.122.164:9450/listen.pls
-EXTINF:-1,Romantik Radyo
+#EXTINF:-1,Romantik Radyo
 http://rdshout.turkuvazgroup.net:7000/
-EXTINF:-1,Romantik Türk
+#EXTINF:-1,Romantik Türk
 http://live.radyotvonline.com:7600/
-EXTINF:-1,Rtd Radyo
+#EXTINF:-1,Rtd Radyo
 http://94.75.222.231:8146/listen.pls
-EXTINF:-1,Sağlık FM
+#EXTINF:-1,Sağlık FM
 http://lin2.radyohost.com.tr/tunein.php/112acilfm/playlist.pls
-EXTINF:-1,Sakarya Radyo Net
+#EXTINF:-1,Sakarya Radyo Net
 http://217.20.122.130:8472/
-EXTINF:-1,Seç FM
+#EXTINF:-1,Seç FM
 http://secfm.net:8010/listen.pls
-EXTINF:-1,Semazen Radyo
+#EXTINF:-1,Semazen Radyo
 http://yayin1.canliyayin.org:8320
-EXTINF:-1,Seydişehir FM
+#EXTINF:-1,Seydişehir FM
 http://46.28.238.81:6783/
-EXTINF:-1,Seyr FM
+#EXTINF:-1,Seyr FM
 http://yayin1.canliyayin.org:8300
-EXTINF:-1,Show Radyo
+#EXTINF:-1,Show Radyo
 http://windows.showradyo.com.tr
-EXTINF:-1,Silifke FM
+#EXTINF:-1,Silifke FM
 http://www.silifkefm.com/online.m3u
-EXTINF:-1,Sinyal FM
+#EXTINF:-1,Sinyal FM
 http://sinyalfm.com:1706/listen.pls
-EXTINF:-1,Sivas FM
+#EXTINF:-1,Sivas FM
 http://yayin1.canliyayin.org:8180/
-EXTINF:-1,Sky FM
+#EXTINF:-1,Sky FM
 http://www.sky.fm/mp3/tophits.pls
-EXTINF:-1,Sky Radyo
+#EXTINF:-1,Sky Radyo
 http://skyradyo.org:8300/listen.pls
-EXTINF:-1,Slow Karadeniz FM
+#EXTINF:-1,Slow Karadeniz FM
 http://dinle.slowkaradenizfm.com:9578/listen.pls
-EXTINF:-1,Slow Radio
+#EXTINF:-1,Slow Radio
 http://stream1.fluoline.net:8020
-EXTINF:-1,Slow Time
+#EXTINF:-1,Slow Time
 http://85.111.3.52:8020/listen.pls
-EXTINF:-1,Slow Türk
+#EXTINF:-1,Slow Türk
 http://slowturk.tbt.com.tr/listen.pls
-EXTINF:-1,Soylu FM
+#EXTINF:-1,Soylu FM
 http://yayin2.yayindakiler.com:4034/
-EXTINF:-1,Sultan Radyo
+#EXTINF:-1,Sultan Radyo
 http://yayin4.selcuklu.net:4949/listen.pls
-EXTINF:-1,Süper FM
+#EXTINF:-1,Süper FM
 http://provisioning.streamtheworld.com/pls/SUPER_FMAAC.pls
-EXTINF:-1,Süper Kanal
+#EXTINF:-1,Süper Kanal
 http://217.20.112.150:1355/listen.pls
-EXTINF:-1,Süper Show Radyo
+#EXTINF:-1,Süper Show Radyo
 http://sunucu4.radyolarburada.com:6065/
-EXTINF:-1,Şafak Radyo
+#EXTINF:-1,Şafak Radyo
 http://www.safakradyo.com:2626/listen.pls
-EXTINF:-1,Şahin FM
+#EXTINF:-1,Şahin FM
 http://178.162.160.117:7770/
-EXTINF:-1,TGRT FM
+#EXTINF:-1,TGRT FM
 http://tgrtradyoshoutcast.mediatriple.net:8002/
-EXTINF:-1,Tiryaki FM
+#EXTINF:-1,Tiryaki FM
 http://tiryakifm.radyolarburada.com:9898/listen.pls
-EXTINF:-1,Trakya FM
+#EXTINF:-1,Trakya FM
 http://78.46.60.240:8744/listen.pls
-EXTINF:-1,TRD
+#EXTINF:-1,TRD
 http://www.trd.com.tr/connect/trd1.m3u
-EXTINF:-1,TRD 1
+#EXTINF:-1,TRD 1
 http://www.trd.com.tr/connect/trd1.m3u
-EXTINF:-1,TRD 1 Extra
+#EXTINF:-1,TRD 1 Extra
 http://www.trd.com.tr/connect/trd1x.m3u
-EXTINF:-1,TRD 2 Altın
+#EXTINF:-1,TRD 2 Altın
 http://www.trd.com.tr/connect/trd2.m3u
-EXTINF:-1,TRD 3 Sanat
+#EXTINF:-1,TRD 3 Sanat
 http://www.trd.com.tr/connect/trd3.m3u
-EXTINF:-1,Trt Avrupa
+#EXTINF:-1,Trt Avrupa
 mms://95.0.159.133/AVRUPA
-EXTINF:-1,Trt FM
+#EXTINF:-1,Trt FM
 mms://95.0.159.133/RADYOFM
-EXTINF:-1,Trt Nağme
+#EXTINF:-1,Trt Nağme
 mms://95.0.159.133/TSM
-EXTINF:-1,Trt Radyo 1
+#EXTINF:-1,Trt Radyo 1
 mms://95.0.159.133/RADYO1
-EXTINF:-1,Trt Radyo 3
+#EXTINF:-1,Trt Radyo 3
 mms://95.0.159.133/RADYO3
-EXTINF:-1,Trt Radyo 4
+#EXTINF:-1,Trt Radyo 4
 mms://95.0.159.133/RADYO4
-EXTINF:-1,Trt Radyo Haber
+#EXTINF:-1,Trt Radyo Haber
 mms://95.0.159.133/KENT
-EXTINF:-1,Trt TSR
+#EXTINF:-1,Trt TSR
 mms://95.0.159.133/RDTSR
-EXTINF:-1,Trt Türkü
+#EXTINF:-1,Trt Türkü
 mms://95.0.159.133/TURKU
-EXTINF:-1,Turgutlu FM
+#EXTINF:-1,Turgutlu FM
 http://85.17.175.174:4545/listen.pls
-EXTINF:-1,Turkuaz Radyo
+#EXTINF:-1,Turkuaz Radyo
 http://85.95.245.50:8024/listen.pls
-EXTINF:-1,Türkiyem FM
+#EXTINF:-1,Türkiyem FM
 http://turkiyemfm.com/listen.pls
-EXTINF:-1,TürkTorrent FM
+#EXTINF:-1,TürkTorrent FM
 http://radyo.turktorrent.biz:8000/listen.pls
-EXTINF:-1,Türkü Radyo
+#EXTINF:-1,Türkü Radyo
 http://5.199.142.41:4591/listen.pls
-EXTINF:-1,Ufuk FM
+#EXTINF:-1,Ufuk FM
 http://yayin1.canliyayin.org:5016/listen.pls
-EXTINF:-1,Uludağ FM
+#EXTINF:-1,Uludağ FM
 http://www.uludagfm.com.tr/live.pls
-EXTINF:-1,Umut FM
+#EXTINF:-1,Umut FM
 http://yayin1.canliyayin.org:8888/
-EXTINF:-1,Ülkü FM
+#EXTINF:-1,Ülkü FM
 http://radyoulku.radyoyayini.com:5777/
-EXTINF:-1,Virgin Radio
+#EXTINF:-1,Virgin Radio
 http://shoutcastdogus.cdnturk.com/listen.pls?sid=30
-EXTINF:-1,Yağmur FM
+#EXTINF:-1,Yağmur FM
 http://94.75.222.231:7954/
-EXTINF:-1,Yaşam Radyo
+#EXTINF:-1,Yaşam Radyo
 mms://95.211.98.4/rd-yasamradyo
-EXTINF:-1,Yıldız FM
+#EXTINF:-1,Yıldız FM
 http://live.radyotvonline.com:8150/listen.pls
-EXTINF:-1,Yozgat Süper FM
+#EXTINF:-1,Yozgat Süper FM
 http://sunucu.radyodinle.com:5959/listen.pls
-EXTINF:-1,Yön Alaturka
+#EXTINF:-1,Yön Alaturka
 http://yonalaturka.radyolarburada.com:8010/listen.pls
-EXTINF:-1,Yön Anatolia
+#EXTINF:-1,Yön Anatolia
 http://yonanatolia.radyolarburada.com:8030/listen.pls
-EXTINF:-1,Yön Etnik
+#EXTINF:-1,Yön Etnik
 http://yonetnik.radyolarburada.com:8040/listen.pls
-EXTINF:-1,Yön Kampüs
+#EXTINF:-1,Yön Kampüs
 http://yonkampus.radyolarburada.com:8050/listen.pls
-EXTINF:-1,Yön Radyo
+#EXTINF:-1,Yön Radyo
 http://yonradyo.radyolarburada.com:8020/listen.pls
-EXTINF:-1,Yön Rock
+#EXTINF:-1,Yön Rock
 http://yonrock.radyolarburada.com:8060/listen.pls
-EXTINF:-1,Yön Türkü
+#EXTINF:-1,Yön Türkü
 http://yonturku.radyolarburada.com:8070/listen.pls
-EXTINF:-1,Yön World
+#EXTINF:-1,Yön World
 http://yonworld.radyolarburada.com:8080/listen.pls
-EXTINF:-1,Yunus FM
-http://sunucu4.radyolarburada.com:7171/
-EXTINF:-1,Zigana Radyo
-rtmp://sr1.netmedya.org/radyo-zigana/radyo-zigana
+#EXTINF:-1,Yunus FM
 #EXTINF:-1,7/24  Arabesk Listen live
 https://24arabesk.80.yayin.com.tr:443/
 #EXTINF:-1,Açýk Radyo 94.9 FM Listen live
